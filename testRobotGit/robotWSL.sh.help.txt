@@ -1,0 +1,51 @@
+# TUTORIAL 
+# https://www.linkedin.com/pulse/testes-automatizados-com-robot-framework-e-wsl-2-m-m-antunes/?originalSubdomain=pt
+# Atualização do ambiente 
+
+# /mnt/c/Users/thiag/Documents/test
+mkdir test
+
+sudo apt-get update
+sudo apt-get install -y make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev libncursesw5-dev xz-utils tk-dev
+
+# instalão do PyEnv 
+curl -L https://github.com/pyenv/pyenv-installer/raw/master/bin/pyenv-installer | bash
+
+# Após a instalação, vamos precisar adicionar o código abaixo no arquivo ~/.bashrc:
+
+# export PATH="$HOME/.pyenv/bin:$PATH"
+# eval "$(pyenv init -)"
+# eval "$(pyenv virtualenv-init -)"
+
+# Versão atual pyenv 2.3.5
+# Vou intalar 
+pyenv install 3.9.0
+pyenv local 3.9.0
+
+#  Instalar robotframework
+pip install robotframework
+
+#  Instalar seleniumlibrary
+pip install robotframework-seleniumlibrary
+
+python --version
+# Python 3.9.0
+
+## Baixar o projeto tutorial
+git clone https://github.com/ferantunes/tutorial_wsl_robot
+
+## Baixar o drive do chromedriver_linux64
+cd /usr/local/bin/
+sudo wget https://chromedriver.storage.googleapis.com/107.0.5304.18/chromedriver_linux64.zip
+sudo unzip chromedriver_linux64.zip
+chmod +x chromedriver
+
+## Instalar o GoogleChrome 
+sudo wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+
+cd /mnt/c/Users/thiag/Documents/test$ 
+
+code ./tutorial_wsl_robot/
+
+robot -d log web/tests/SiteRobot.robot
+

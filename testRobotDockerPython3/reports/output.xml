@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0.1 (Python 3.10.0a6 on linux)" generated="20221014 20:43:14.959" rpa="false" schemaversion="3">
+<suite id="s1" name="Suites" source="/suites">
+<suite id="s1-s1" name="Google Pesquisa" source="/suites/google_pesquisa.robot">
+<test id="s1-s1-t1" name="RchloTest" line="9">
+<kw name="Open Browser" library="SeleniumLibrary">
+<arg>${SITE_RCHLO}</arg>
+<arg>${BROWSER}</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<msg timestamp="20221014 20:43:15.334" level="INFO">Opening browser 'chrome' to base url 'https://www.riachuelo.com.br/'.</msg>
+<msg timestamp="20221014 20:43:15.915" level="INFO">Cannot capture screenshot because no browser is open.</msg>
+<msg timestamp="20221014 20:43:15.917" level="FAIL">WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+#0 0x56202ede32c3 &lt;unknown&gt;
+#1 0x56202ebec83a &lt;unknown&gt;
+#2 0x56202ec12543 &lt;unknown&gt;
+#3 0x56202ec0d546 &lt;unknown&gt;
+#4 0x56202ec4bde6 &lt;unknown&gt;
+#5 0x56202ec4b74f &lt;unknown&gt;
+#6 0x56202ec43d63 &lt;unknown&gt;
+#7 0x56202ec187e3 &lt;unknown&gt;
+#8 0x56202ec19a21 &lt;unknown&gt;
+#9 0x56202ee3118e &lt;unknown&gt;
+#10 0x56202ee34622 &lt;unknown&gt;
+#11 0x56202ee17aae &lt;unknown&gt;
+#12 0x56202ee352a3 &lt;unknown&gt;
+#13 0x56202ee0becf &lt;unknown&gt;
+#14 0x56202ee55588 &lt;unknown&gt;
+#15 0x56202ee55706 &lt;unknown&gt;
+#16 0x56202ee6f8b2 &lt;unknown&gt;
+#17 0x7f265338dfa3 &lt;unknown&gt;
+</msg>
+<status status="FAIL" starttime="20221014 20:43:15.332" endtime="20221014 20:43:15.920"/>
+</kw>
+<kw name="Input Text xpath=/html/body/div[2]/header/div/div[1]/div[4]/div[1]/div[2]/form/div/div[2]/input">
+<arg>jeans</arg>
+<status status="NOT RUN" starttime="20221014 20:43:15.928" endtime="20221014 20:43:15.929"/>
+</kw>
+<kw name="Press Keys" library="SeleniumLibrary">
+<arg>xpath=//*[@id="search"]</arg>
+<arg>ENTER</arg>
+<doc>Simulates the user pressing key(s) to an element or on the active browser.</doc>
+<status status="NOT RUN" starttime="20221014 20:43:15.929" endtime="20221014 20:43:15.929"/>
+</kw>
+<kw name="Wait Until Page Contains Element" library="SeleniumLibrary">
+<arg>xpath=/html/body/div[7]/div[1]/div/p</arg>
+<doc>Waits until the element ``locator`` appears on the current page.</doc>
+<status status="NOT RUN" starttime="20221014 20:43:15.930" endtime="20221014 20:43:15.930"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>5s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="NOT RUN" starttime="20221014 20:43:15.930" endtime="20221014 20:43:15.930"/>
+</kw>
+<kw name="Close Browser" library="SeleniumLibrary">
+<doc>Closes the current browser.</doc>
+<status status="NOT RUN" starttime="20221014 20:43:15.931" endtime="20221014 20:43:15.931"/>
+</kw>
+<status status="FAIL" starttime="20221014 20:43:15.330" endtime="20221014 20:43:15.934">WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+#0 0x56202ede32c3 &lt;unknown&gt;
+#1 0x56202ebec83a &lt;unknown&gt;
+#2 0x56202ec12543 &lt;unknown&gt;
+#3 0x56202ec0d546 &lt;unknown&gt;
+#4 0x56202ec4bde6 &lt;unknown&gt;
+#5 0x56202ec4b74f &lt;unknown&gt;
+#6 0x56202ec43d63 &lt;unknown&gt;
+#7 0x56202ec187e3 &lt;unknown&gt;
+#8 0x56202ec19a21 &lt;unknown&gt;
+#9 0x56202ee3118e &lt;unknown&gt;
+#10 0x56202ee34622 &lt;unknown&gt;
+#11 0x56202ee17aae &lt;unknown&gt;
+#12 0x56202ee352a3 &lt;unknown&gt;
+#13 0x56202ee0becf &lt;unknown&gt;
+#14 0x56202ee55588 &lt;unknown&gt;
+#15 0x56202ee55706 &lt;unknown&gt;
+#16 0x56202ee6f8b2 &lt;unknown&gt;
+#17 0x7f265338dfa3 &lt;unknown&gt;
+</status>
+</test>
+<doc>Riachuelo - Tribo Inteligência Comercial - Squad Abastecimento</doc>
+<status status="FAIL" starttime="20221014 20:43:14.994" endtime="20221014 20:43:15.942"/>
+</suite>
+<suite id="s1-s2" name="Website Jdriven" source="/suites/website_jdriven.robot">
+<test id="s1-s2-t1" name="Get Request TestWebsite" line="9">
+<kw name="Create Session" library="RequestsLibrary">
+<arg>getwebsite</arg>
+<arg>https://www.google.com.br</arg>
+<arg>verify=false</arg>
+<doc>Create Session: create a HTTP session to a server</doc>
+<msg timestamp="20221014 20:43:16.249" level="INFO">Creating Session using : alias=getwebsite, url=https://www.google.com.br, headers={},                     cookies={}, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 </msg>
+<status status="PASS" starttime="20221014 20:43:16.248" endtime="20221014 20:43:16.249"/>
+</kw>
+<kw name="GET On Session" library="RequestsLibrary">
+<var>${resp}</var>
+<arg>getwebsite</arg>
+<arg>/</arg>
+<arg>expected_status=200</arg>
+<doc>Sends a GET request on a previously created HTTP Session.</doc>
+<msg timestamp="20221014 20:43:16.493" level="INFO">GET Request : url=https://www.google.com.br/ 
+ path_url=/ 
+ headers={'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'} 
+ body=None 
+ </msg>
+<msg timestamp="20221014 20:43:16.493" level="INFO">GET Response : url=https://www.google.com.br/ 
+ status=200, reason=OK 
+ headers={'Date': 'Fri, 14 Oct 2022 20:43:16 GMT', 'Expires': '-1', 'Cache-Control': 'private, max-age=0', 'Content-Type': 'text/html; charset=ISO-8859-1', 'P3P': 'CP="This is not a P3P policy! See g.co/p3phelp for more info."', 'Content-Encoding': 'gzip', 'Server': 'gws', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'Set-Cookie': '1P_JAR=2022-10-14-20; expires=Sun, 13-Nov-2022 20:43:16 GMT; path=/; domain=.google.com.br; Secure, AEC=AakniGMhC3qGlOOD_52oafx-cCrtj61kFf-kkZfruPdfeIiKCX13iTxN3ZI; expires=Wed, 12-Apr-2023 20:43:16 GMT; path=/; domain=.google.com.br; Secure; HttpOnly; SameSite=lax, NID=511=jUpRARclV_ZvJmieavIBimJeheDK5w_sr6sp5QraTRQRzD3ifbHy4g42t5B6NElbPxSBEnCypFONKpbk3Fb0yHM6rJ44bJAOdP65I517tBE4FuqUpnGABVGOn0bmi2Pc7lo5t9kLOt6G199hSHo0b0oq4tTxzObChDFXM3BZufg; expires=Sat, 15-Apr-2023 20:43:16 GMT; path=/; domain=.google.com.br; HttpOnly', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"', 'Transfer-Encoding': 'chunked'} 
+ body=&lt;!doctype html&gt;&lt;html itemscope="" itemtype="http://schema.org/WebPage" lang="pt-BR"&gt;&lt;head&gt;&lt;meta content="text/html; charset=UTF-8" http-equiv="Content-Type"&gt;&lt;meta content="/images/branding/googleg/1x/googleg_standard_color_128dp.png" itemprop="image"&gt;&lt;title&gt;Google&lt;/title&gt;&lt;script nonce="29TFwQHI60ZuE2qJ8zk9Qg"&gt;(function(){window.google={kEI:'5MlJY4GMGaPL1sQPw9iF0AU',kEXPI:'0,18168,1284368,56873,6059,206,4804,2316,383,246,5,5367,1123753,1197735,659,380097,16114,28684,22430,1362,12314,17585,4998,13228,3847,10622,22743,5079,885,708,1279,2742,149,1103,840,2197,4100,108,3406,606,2023,1777,520,14670,3228,2844,7,5599,28171,1851,15756,3,576,6460,148,13975,4,1528,2304,7039,17819,2490,1714,5708,7357,11442,2216,21223,5767,2590,4094,4052,3,3541,1,42154,2,14022,2373,11743,11623,5679,1021,2380,12485,16257,4567,6256,23421,1252,5835,14967,4333,5016,2468,445,2,2,1,26632,8155,7321,60,15970,873,19633,7,1922,5784,3995,20639,1140,9543,4832,5764,5878,4322,1052,122,700,4,1,2,2,2,2,8652,1071,4193,533,11,2985,1606,5825,3913,14,82,949,808,951,1182,751,201,1869,7555,2736,922,613,1323,346,473,1149,960,1575,1071,217,743,498,107,459,1125,1581,4330,890,1329,1128,14,420,890,1,132,444,1244,726,456,967,192,147,980,762,813,78,263,12,871,10,560,589,1477,108,452,99,235,42,358,245,106,28,515,869,544,934,571,2,225,26,34,67,132,386,50,138,340,448,3,6,144,344,96,150,168,7,67,895,111,19,163,1196,828,121,537,389,411,5325245,5995873,2803376,3311,141,795,19735,1,303,44,1754,61,13,3,6,3,6,10,84,23,7451662,16496859,4042143,1964,3094,13578,3406,10284,1034,1469,1372558,47697',kBL:'stdm'};google.sn='webhp';google.kHL='pt-BR';})();(function(){
+var f=this||self;var h,k=[];function l(a){for(var b;a&amp;&amp;(!a.getAttribute||!(b=a.getAttribute("eid")));)a=a.parentNode;return b||h}function m(a){for(var b=null;a&amp;&amp;(!a.getAttribute||!(b=a.getAttribute("leid")));)a=a.parentNode;return b}
+function n(a,b,c,d,g){var e="";c||-1!==b.search("&amp;ei=")||(e="&amp;ei="+l(d),-1===b.search("&amp;lei=")&amp;&amp;(d=m(d))&amp;&amp;(e+="&amp;lei="+d));d="";!c&amp;&amp;f._cshid&amp;&amp;-1===b.search("&amp;cshid=")&amp;&amp;"slh"!==a&amp;&amp;(d="&amp;cshid="+f._cshid);c=c||"/"+(g||"gen_204")+"?atyp=i&amp;ct="+a+"&amp;cad="+b+e+"&amp;zx="+Date.now()+d;/^http:/i.test(c)&amp;&amp;"https:"===window.location.protocol&amp;&amp;(google.ml&amp;&amp;google.ml(Error("a"),!1,{src:c,glmm:1}),c="");return c};h=google.kEI;google.getEI=l;google.getLEI=m;google.ml=function(){return null};google.log=function(a,b,c,d,g){if(c=n(a,b,c,d,g)){a=new Image;var e=k.length;k[e]=a;a.onerror=a.onload=a.onabort=function(){delete k[e]};a.src=c}};google.logUrl=n;}).call(this);(function(){
+google.y={};google.sy=[];google.x=function(a,b){if(a)var c=a.id;else{do c=Math.random();while(google.y[c])}google.y[c]=[a,b];return!1};google.sx=function(a){google.sy.push(a)};google.lm=[];google.plm=function(a){google.lm.push.apply(google.lm,a)};google.lq=[];google.load=function(a,b,c){google.lq.push([[a],b,c])};google.loadAll=function(a,b){google.lq.push([a,b])};google.bx=!1;google.lx=function(){};}).call(this);google.f={};(function(){
+document.documentElement.addEventListener("submit",function(b){var a;if(a=b.target){var c=a.getAttribute("data-submitfalse");a="1"===c||"q"===c&amp;&amp;!a.elements.q.value?!0:!1}else a=!1;a&amp;&amp;(b.preventDefault(),b.stopPropagation())},!0);document.documentElement.addEventListener("click",function(b){var a;a:{for(a=b.target;a&amp;&amp;a!==document.documentElement;a=a.parentElement)if("A"===a.tagName){a="1"===a.getAttribute("data-nohref");break a}a=!1}a&amp;&amp;b.preventDefault()},!0);}).call(this);&lt;/script&gt;&lt;style&gt;#gbar,#guser{font-size:13px;padding-top:1px !important;}#gbar{height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}@media all{.gb1{height:22px;margin-right:.5em;vertical-align:top}#gbar{float:left}}a.gb1,a.gb4{text-decoration:underline !important}a.gb1,a.gb4{color:#00c !important}.gbi .gb4{color:#dd8e27 !important}.gbf .gb4{color:#900 !important}
+&lt;/style&gt;&lt;style&gt;body,td,a,p,.h{font-family:arial,sans-serif}body{margin:0;overflow-y:scroll}#gog{padding:3px 8px 0}td{line-height:.8em}.gac_m td{line-height:17px}form{margin-bottom:20px}.h{color:#1558d6}em{font-weight:bold;font-style:normal}.lst{height:25px;width:496px}.gsfi,.lst{font:18px arial,sans-serif}.gsfs{font:17px arial,sans-serif}.ds{display:inline-box;display:inline-block;margin:3px 0 4px;margin-left:4px}input{font-family:inherit}body{background:#fff;color:#000}a{color:#4b11a8;text-decoration:none}a:hover,a:active{text-decoration:underline}.fl a{color:#1558d6}a:visited{color:#4b11a8}.sblc{padding-top:5px}.sblc a{display:block;margin:2px 0;margin-left:13px;font-size:11px}.lsbb{background:#f8f9fa;border:solid 1px;border-color:#dadce0 #70757a #70757a #dadce0;height:30px}.lsbb{display:block}#WqQANb a{display:inline-block;margin:0 12px}.lsb{background:url(/images/nav_logo229.png) 0 -261px repeat-x;border:none;color:#000;cursor:pointer;height:30px;margin:0;outline:0;font:15px arial,sans-serif;vertical-align:top}.lsb:active{background:#dadce0}.lst:focus{outline:none}.Ucigb{width:458px}&lt;/style&gt;&lt;script nonce="29TFwQHI60ZuE2qJ8zk9Qg"&gt;(function(){window.google.erd={jsr:1,bv:1669,de:true};
+var h=this||self;var k,l=null!=(k=h.mei)?k:1,n,p=null!=(n=h.sdo)?n:!0,q=0,r,t=google.erd,v=t.jsr;google.ml=function(a,b,d,m,e){e=void 0===e?2:e;b&amp;&amp;(r=a&amp;&amp;a.message);if(google.dl)return google.dl(a,e,d),null;if(0&gt;v){window.console&amp;&amp;console.error(a,d);if(-2===v)throw a;b=!1}else b=!a||!a.message||"Error loading script"===a.message||q&gt;=l&amp;&amp;!m?!1:!0;if(!b)return null;q++;d=d||{};b=encodeURIComponent;var c="/gen_204?atyp=i&amp;ei="+b(google.kEI);google.kEXPI&amp;&amp;(c+="&amp;jexpid="+b(google.kEXPI));c+="&amp;srcpg="+b(google.sn)+"&amp;jsr="+b(t.jsr)+"&amp;bver="+b(t.bv);var f=a.lineNumber;void 0!==f&amp;&amp;(c+="&amp;line="+f);var g=
+a.fileName;g&amp;&amp;(0&lt;g.indexOf("-extension:/")&amp;&amp;(e=3),c+="&amp;script="+b(g),f&amp;&amp;g===window.location.href&amp;&amp;(f=document.documentElement.outerHTML.split("\n")[f],c+="&amp;cad="+b(f?f.substring(0,300):"No script found.")));c+="&amp;jsel="+e;for(var u in d)c+="&amp;",c+=b(u),c+="=",c+=b(d[u]);c=c+"&amp;emsg="+b(a.name+": "+a.message);c=c+"&amp;jsst="+b(a.stack||"N/A");12288&lt;=c.length&amp;&amp;(c=c.substr(0,12288));a=c;m||google.log(0,"",a);return a};window.onerror=function(a,b,d,m,e){r!==a&amp;&amp;(a=e instanceof Error?e:Error(a),void 0===d||"lineNumber"in a||(a.lineNumber=d),void 0===b||"fileName"in a||(a.fileName=b),google.ml(a,!1,void 0,!1,"SyntaxError"===a.name||"SyntaxError"===a.message.substring(0,11)||-1!==a.message.indexOf("Script error")?2:0));r=null;p&amp;&amp;q&gt;=l&amp;&amp;(window.onerror=null)};})();&lt;/script&gt;&lt;/head&gt;&lt;body bgcolor="#fff"&gt;&lt;script nonce="29TFwQHI60ZuE2qJ8zk9Qg"&gt;(function(){var src='/images/nav_logo229.png';var iesg=false;document.body.onload = function(){window.n &amp;&amp; window.n();if (document.images){new Image().src=src;}
+if (!iesg){document.f&amp;&amp;document.f.q.focus();document.gbqf&amp;&amp;document.gbqf.q.focus();}
+}
+})();&lt;/script&gt;&lt;div id="mngb"&gt;&lt;div id=gbar&gt;&lt;nobr&gt;&lt;b class=gb1&gt;Pesquisa&lt;/b&gt; &lt;a class=gb1 href="https://www.google.com.br/imghp?hl=pt-BR&amp;tab=wi"&gt;Imagens&lt;/a&gt; &lt;a class=gb1 href="https://maps.google.com.br/maps?hl=pt-BR&amp;tab=wl"&gt;Maps&lt;/a&gt; &lt;a class=gb1 href="https://play.google.com/?hl=pt-BR&amp;tab=w8"&gt;Play&lt;/a&gt; &lt;a class=gb1 href="https://www.youtube.com/?tab=w1"&gt;YouTube&lt;/a&gt; &lt;a class=gb1 href="https://news.google.com/?tab=wn"&gt;Notícias&lt;/a&gt; &lt;a class=gb1 href="https://mail.google.com/mail/?tab=wm"&gt;Gmail&lt;/a&gt; &lt;a class=gb1 href="https://drive.google.com/?tab=wo"&gt;Drive&lt;/a&gt; &lt;a class=gb1 style="text-decoration:none" href="https://www.google.com.br/intl/pt-BR/about/products?tab=wh"&gt;&lt;u&gt;Mais&lt;/u&gt; &amp;raquo;&lt;/a&gt;&lt;/nobr&gt;&lt;/div&gt;&lt;div id=guser width=100%&gt;&lt;nobr&gt;&lt;span id=gbn class=gbi&gt;&lt;/span&gt;&lt;span id=gbf class=gbf&gt;&lt;/span&gt;&lt;span id=gbe&gt;&lt;/span&gt;&lt;a href="http://www.google.com.br/history/optout?hl=pt-BR" class=gb4&gt;Histórico da Web&lt;/a&gt; | &lt;a  href="/preferences?hl=pt-BR" class=gb4&gt;Configurações&lt;/a&gt; | &lt;a target=_top id=gb_70 href="https://accounts.google.com/ServiceLogin?hl=pt-BR&amp;passive=true&amp;continue=https://www.google.com.br/&amp;ec=GAZAAQ" class=gb4&gt;Fazer login&lt;/a&gt;&lt;/nobr&gt;&lt;/div&gt;&lt;div class=gbh style=left:0&gt;&lt;/div&gt;&lt;div class=gbh style=right:0&gt;&lt;/div&gt;&lt;/div&gt;&lt;center&gt;&lt;br clear="all" id="lgpd"&gt;&lt;div id="lga"&gt;&lt;img alt="Google" height="92" src="/images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png" style="padding:28px 0 14px" width="272" id="hplogo"&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;form action="/search" name="f"&gt;&lt;table cellpadding="0" cellspacing="0"&gt;&lt;tr valign="top"&gt;&lt;td width="25%"&gt;&amp;nbsp;&lt;/td&gt;&lt;td align="center" nowrap=""&gt;&lt;input name="ie" value="ISO-8859-1" type="hidden"&gt;&lt;input value="pt-BR" name="hl" type="hidden"&gt;&lt;input name="source" type="hidden" value="hp"&gt;&lt;input name="biw" type="hidden"&gt;&lt;input name="bih" type="hidden"&gt;&lt;div class="ds" style="height:32px;margin:4px 0"&gt;&lt;div style="position:relative;zoom:1"&gt;&lt;input class="lst Ucigb" style="margin:0;padding:5px 8px 0 6px;vertical-align:top;color:#000;padding-right:38px" autocomplete="off" value="" title="Pesquisa Google" maxlength="2048" name="q" size="57"&gt;&lt;img src="/textinputassistant/tia.png" style="position:absolute;cursor:pointer;right:5px;top:4px;z-index:300" data-script-url="/textinputassistant/11/pt-BR_tia.js" id="tsuid_1" alt="" height="23" width="27"&gt;&lt;script nonce="29TFwQHI60ZuE2qJ8zk9Qg"&gt;(function(){var id='tsuid_1';document.getElementById(id).onclick = function(){var s = document.createElement('script');s.src = this.getAttribute('data-script-url');(document.getElementById('xjsc')||document.body).appendChild(s);};})();&lt;/script&gt;&lt;/div&gt;&lt;/div&gt;&lt;br style="line-height:0"&gt;&lt;span class="ds"&gt;&lt;span class="lsbb"&gt;&lt;input class="lsb" value="Pesquisa Google" name="btnG" type="submit"&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="ds"&gt;&lt;span class="lsbb"&gt;&lt;input class="lsb" id="tsuid_2" value="Estou com sorte" name="btnI" type="submit"&gt;&lt;script nonce="29TFwQHI60ZuE2qJ8zk9Qg"&gt;(function(){var id='tsuid_2';document.getElementById(id).onclick = function(){if (this.form.q.value){this.checked = 1;if (this.form.iflsig)this.form.iflsig.disabled = false;}
+else top.location='/doodles/';};})();&lt;/script&gt;&lt;input value="AJiK0e8AAAAAY0nX9GFDbIN-su8pafH1kcRhQWLj4OxR" name="iflsig" typ... (set the log level to DEBUG or TRACE to see the full content) 
+ </msg>
+<msg timestamp="20221014 20:43:16.495" level="INFO">/usr/local/lib/python3.10/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.google.com.br'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(</msg>
+<msg timestamp="20221014 20:43:16.495" level="INFO">${resp} = &lt;Response [200]&gt;</msg>
+<status status="PASS" starttime="20221014 20:43:16.250" endtime="20221014 20:43:16.495"/>
+</kw>
+<kw name="Should Be Equal As Strings" library="BuiltIn">
+<arg>${resp.status_code}</arg>
+<arg>200</arg>
+<doc>Fails if objects are unequal after converting them to strings.</doc>
+<msg timestamp="20221014 20:43:16.498" level="INFO">Argument types are:
+&lt;class 'int'&gt;
+&lt;class 'str'&gt;</msg>
+<status status="PASS" starttime="20221014 20:43:16.496" endtime="20221014 20:43:16.498"/>
+</kw>
+<status status="PASS" starttime="20221014 20:43:16.247" endtime="20221014 20:43:16.498"/>
+</test>
+<kw name="Delete All Sessions" library="RequestsLibrary" type="TEARDOWN">
+<doc>Removes all the session objects</doc>
+<msg timestamp="20221014 20:43:16.501" level="INFO">Deleting All Sessions</msg>
+<status status="PASS" starttime="20221014 20:43:16.500" endtime="20221014 20:43:16.501"/>
+</kw>
+<status status="PASS" starttime="20221014 20:43:15.945" endtime="20221014 20:43:16.501"/>
+</suite>
+<status status="FAIL" starttime="20221014 20:43:14.963" endtime="20221014 20:43:16.510"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="1" skip="0" id="s1" name="Suites">Suites</stat>
+<stat pass="0" fail="1" skip="0" id="s1-s1" name="Google Pesquisa">Suites.Google Pesquisa</stat>
+<stat pass="1" fail="0" skip="0" id="s1-s2" name="Website Jdriven">Suites.Website Jdriven</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

@@ -1,0 +1,16 @@
+version: '3.3'
+services:
+    test:
+        network_mode: host
+        image: robot_v3
+        stdin_open: true 
+        tty: true 
+        shm_size: "256M"
+        environment:
+            USERNAME: Justus
+        volumes: [
+           "$PWD/suites:/suites",
+           "$PWD/scripts:/scripts",
+           "$PWD/reports:/reports",
+           "$PWD/output:/output"
+        ]

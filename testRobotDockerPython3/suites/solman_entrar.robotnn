@@ -1,0 +1,33 @@
+*** Settings ***
+Documentation     A test suite with a single test for Entrar
+...               Created by hats' Robotcorder
+Library           Selenium2Library    timeout=10
+Library           Collections
+Library           RequestsLibrary
+
+Suite Teardown  Delete All Sessions
+
+*** Variables ***
+${BROWSER}    chrome
+${SLEEP}    3
+
+
+
+*** Test Cases ***
+Entrar test
+    Open Browser    https://solman.almdemo.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html#Shell-home    ${BROWSER}
+    Sleep    ${SLEEP}
+    Wait Until Page Contains Element    //input[@name="sap-user"]
+    Input Text    //input[@name="sap-user"]        ADAMSM
+    Sleep    ${SLEEP}
+    Wait Until Page Contains Element    //input[@name="sap-password"]
+    Input Text    //input[@name="sap-password"]    Solman72
+    Sleep    ${SLEEP}
+    Wait Until Page Contains Element    //select[@id="LANGUAGE_SELECT"]
+    Select From List By Value    //select[@id="LANGUAGE_SELECT"]    PT
+    Sleep    ${SLEEP}
+    Wait Until Page Contains Element    xpath=(//font)[8]
+    Click Element    xpath=(//font)[8]
+    Sleep    ${SLEEP}
+
+    Close Browser

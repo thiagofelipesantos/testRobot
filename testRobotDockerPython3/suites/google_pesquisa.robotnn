@@ -1,0 +1,16 @@
+*** Settings ***
+Documentation   Riachuelo - Tribo Inteligência Comercial - Squad Abastecimento 
+Library         SeleniumLibrary    timeout=500
+Library         String
+*** Variables ***
+${BROWSER}           chrome    
+${SITE_RCHLO}        https://www.riachuelo.com.br/
+*** Test Cases ***
+RchloTest
+    Open Browser      ${SITE_RCHLO}   ${BROWSER} 
+    Input Text xpath=/html/body/div[2]/header/div/div[1]/div[4]/div[1]/div[2]/form/div/div[2]/input    jeans
+    Press Keys        xpath=//*[@id="search"]  ENTER
+    Wait Until Page Contains Element   xpath=/html/body/div[7]/div[1]/div/p 
+    Sleep       5s
+    close Browser
+*** Keywords ***

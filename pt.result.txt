@@ -1,0 +1,2899 @@
+build-essential
+
+[1messencial para a construção[22m
+
+Translations of [4mbuild-essential[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mbuild-essential[24m
+    [1messencial para a construção[22m, [1messencial à construção[22m
+
+Description-en: Informational list of build-essential packages
+
+[1mDescription-pt: Lista informativa de pacotes essenciais para a compilação[22m
+
+Translations of [4mDescription-en: Informational list of build-essential packages[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: Informational list of build-essential packages[24m
+    [1mDescription-pt: Lista informativa de pacotes essenciais para a compilação[22m, [1mDescription-pt: Lista informativa de pacotes essenciais para a construção[22m
+
+If you do not plan to build Debian packages, you don't need this
+
+[1mSe você não planeja construir pacotes Debian, você não precisa disso[22m
+
+Translations of [4mIf you do not plan to build Debian packages, you don't need this[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mIf you do not plan to build Debian packages, you don't need this[24m
+    [1mSe você não planeja construir pacotes Debian, você não precisa disso[22m, [1mSe você não planeja construir pacotes Debian, não precisa disso[22m
+
+package. Starting with dpkg (>= 1.14.18) this package is required
+
+[1mpacote. Começando com dpkg (>= 1.14.18) este pacote é necessário[22m
+
+Translations of [4mpackage. Starting with dpkg (>= 1.14.18) this package is required[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mpackage.[24m
+    [1mpacote.[22m, [1mempacotar.[22m, [1membalagem.[22m
+[4mStarting with dpkg (>= 1.14.18) this package is required[24m
+    [1mComeçando com dpkg (>= 1.14.18) este pacote é necessário[22m, [1mComeçando com dpkg (>= 1.14.18) este pacote é obrigatório[22m
+
+for building Debian packages.
+
+[1mpara construir pacotes Debian.[22m
+
+Translations of [4mfor building Debian packages.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mfor building Debian packages.[24m
+    [1mpara construir pacotes Debian.[22m, [1mpara a construção de pacotes Debian.[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+ca-certificates
+
+[1mcertificados ca[22m
+
+Translations of [4mca-certificates[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mca-certificates[24m
+    [1mcertificados ca[22m, [1mca-certificados[22m
+
+Description-en: Common CA certificates
+
+[1mDescription-pt: certificados de CA comuns[22m
+
+Translations of [4mDescription-en: Common CA certificates[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: Common CA certificates[24m
+    [1mDescription-pt: certificados de CA comuns[22m, [1mDescription-pt: Certificados comuns de CA[22m
+
+Contains the certificate authorities shipped with Mozilla's browser to allow
+
+[1mContém as autoridades de certificação enviadas com o navegador da Mozilla para permitir[22m
+
+Translations of [4mContains the certificate authorities shipped with Mozilla's browser to allow[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mContains the certificate authorities shipped with Mozilla's browser to allow[24m
+    [1mContém as autoridades de certificação enviadas com o navegador da Mozilla para permitir[22m, [1mContém as autoridades certificadoras fornecidas com o navegador da Mozilla para permitir[22m
+
+SSL-based applications to check for the authenticity of SSL connections.
+
+[1mAplicativos baseados em SSL para verificar a autenticidade de conexões SSL.[22m
+
+Translations of [4mSSL-based applications to check for the authenticity of SSL connections.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mSSL-based applications to check for the authenticity of SSL connections.[24m
+    [1mAplicativos baseados em SSL para verificar a autenticidade de conexões SSL.[22m, [1mAplicativos com base em SSL para verificar a autenticidade das conexões SSL.[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+Please note that Debian can neither confirm nor deny whether the
+
+[1mPor favor, note que o Debian não pode confirmar nem negar se o[22m
+
+Translations of [4mPlease note that Debian can neither confirm nor deny whether the[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mPlease note that Debian can neither confirm nor deny whether the[24m
+    [1mPor favor, note que o Debian não pode confirmar nem negar se o[22m, [1mObserve que o Debian não pode confirmar nem negar se o[22m
+
+--
+
+[1m--[22m
+
+Translations of [4m--[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m--[24m
+    [1m--[22m, [1m—[22m
+
+Description-en: Common CA certificates
+
+[1mDescription-pt: certificados de CA comuns[22m
+
+Translations of [4mDescription-en: Common CA certificates[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: Common CA certificates[24m
+    [1mDescription-pt: certificados de CA comuns[22m, [1mDescription-pt: Certificados comuns de CA[22m
+
+Contains the certificate authorities shipped with Mozilla's browser to allow
+
+[1mContém as autoridades de certificação enviadas com o navegador da Mozilla para permitir[22m
+
+Translations of [4mContains the certificate authorities shipped with Mozilla's browser to allow[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mContains the certificate authorities shipped with Mozilla's browser to allow[24m
+    [1mContém as autoridades de certificação enviadas com o navegador da Mozilla para permitir[22m, [1mContém as autoridades certificadoras fornecidas com o navegador da Mozilla para permitir[22m
+
+SSL-based applications to check for the authenticity of SSL connections.
+
+[1mAplicativos baseados em SSL para verificar a autenticidade de conexões SSL.[22m
+
+Translations of [4mSSL-based applications to check for the authenticity of SSL connections.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mSSL-based applications to check for the authenticity of SSL connections.[24m
+    [1mAplicativos baseados em SSL para verificar a autenticidade de conexões SSL.[22m, [1mAplicativos com base em SSL para verificar a autenticidade das conexões SSL.[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+Please note that Debian can neither confirm nor deny whether the
+
+[1mPor favor, note que o Debian não pode confirmar nem negar se o[22m
+
+Translations of [4mPlease note that Debian can neither confirm nor deny whether the[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mPlease note that Debian can neither confirm nor deny whether the[24m
+    [1mPor favor, note que o Debian não pode confirmar nem negar se o[22m, [1mObserve que o Debian não pode confirmar nem negar se o[22m
+
+curl
+/kərl/
+
+[1mondulação[22m
+
+Definitions of [4mcurl[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+verb
+[1m    enrolar[22m
+        curl, roll, wrap, roll up, coil, wind up
+[1m    encaracolar[22m
+        curl, crisp, frizz, frizzle
+[1m    frisar[22m
+        crimp, curl, frizz, frizzle, crisp, crape
+[1m    cachear[22m
+        curl
+
+noun
+[1m    (a) ondulação[22m
+        curling, undulation, ripple, curl, dimple, wave
+[1m    (o) cacho[22m
+        bunch, cluster, curl, lock, raceme
+[1m    (o) caracol[22m
+        snail, curl, coil, caracole, caracul, helix
+[1m    (o) anel[22m
+        ring, annulus, band, circle, link, curl
+
+[4mcurl[24m
+    [1mondulação[22m, [1menrolar[22m, [1mondular[22m
+
+Description-en: command line tool for transferring data with URL syntax
+
+[1mDescription-pt: ferramenta de linha de comando para transferência de dados com sintaxe de URL[22m
+
+Translations of [4mDescription-en: command line tool for transferring data with URL syntax[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: command line tool for transferring data with URL syntax[24m
+    [1mDescription-pt: ferramenta de linha de comando para transferência de dados com sintaxe de URL[22m, [1mDescription-en: ferramenta de linha de comando para transferir dados com sintaxe de URL[22m
+
+curl is a command line tool for transferring data with URL syntax, supporting
+
+[1mcurl é uma ferramenta de linha de comando para transferir dados com sintaxe de URL, suportando[22m
+
+Translations of [4mcurl is a command line tool for transferring data with URL syntax, supporting[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mcurl is a command line tool for transferring data with URL syntax, supporting[24m
+    [1mcurl é uma ferramenta de linha de comando para transferir dados com sintaxe de URL, suportando[22m, [1mcurl é uma ferramenta de linha de comando para transferência de dados com sintaxe de URL,[22m
+
+DICT, FILE, FTP, FTPS, GOPHER, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, POP3,
+
+[1mDICT, FILE, FTP, FTPS, GOPHER, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, POP3,[22m
+
+Translations of [4mDICT, FILE, FTP, FTPS, GOPHER, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, POP3,[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDICT, FILE, FTP, FTPS, GOPHER, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, POP3,[24m
+    [1mDICT, FILE, FTP, FTPS, GOPHER, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, POP3,[22m, [1mDICT, arquivo, FTP, FTPS, GOPHER, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, POP3,[22m
+
+POP3S, RTMP, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET and TFTP.
+
+[1mPOP3S, RTMP, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET e TFTP.[22m
+
+Translations of [4mPOP3S, RTMP, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET and TFTP.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mPOP3S, RTMP, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET and TFTP.[24m
+    [1mPOP3S, RTMP, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET e TFTP.[22m, [1mPOP3S, RTMP, RTSP, SCP, SFTP, SMTP, SMTPS, telnet e TFTP.[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+--
+
+[1m--[22m
+
+Translations of [4m--[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m--[24m
+    [1m--[22m, [1m—[22m
+
+Description-en: command line tool for transferring data with URL syntax
+
+[1mDescription-pt: ferramenta de linha de comando para transferência de dados com sintaxe de URL[22m
+
+Translations of [4mDescription-en: command line tool for transferring data with URL syntax[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: command line tool for transferring data with URL syntax[24m
+    [1mDescription-pt: ferramenta de linha de comando para transferência de dados com sintaxe de URL[22m, [1mDescription-en: ferramenta de linha de comando para transferir dados com sintaxe de URL[22m
+
+curl is a command line tool for transferring data with URL syntax, supporting
+
+[1mcurl é uma ferramenta de linha de comando para transferir dados com sintaxe de URL, suportando[22m
+
+Translations of [4mcurl is a command line tool for transferring data with URL syntax, supporting[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mcurl is a command line tool for transferring data with URL syntax, supporting[24m
+    [1mcurl é uma ferramenta de linha de comando para transferir dados com sintaxe de URL, suportando[22m, [1mcurl é uma ferramenta de linha de comando para transferência de dados com sintaxe de URL,[22m
+
+DICT, FILE, FTP, FTPS, GOPHER, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, POP3,
+
+[1mDICT, FILE, FTP, FTPS, GOPHER, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, POP3,[22m
+
+Translations of [4mDICT, FILE, FTP, FTPS, GOPHER, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, POP3,[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDICT, FILE, FTP, FTPS, GOPHER, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, POP3,[24m
+    [1mDICT, FILE, FTP, FTPS, GOPHER, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, POP3,[22m, [1mDICT, arquivo, FTP, FTPS, GOPHER, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, POP3,[22m
+
+POP3S, RTMP, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET and TFTP.
+
+[1mPOP3S, RTMP, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET e TFTP.[22m
+
+Translations of [4mPOP3S, RTMP, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET and TFTP.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mPOP3S, RTMP, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET and TFTP.[24m
+    [1mPOP3S, RTMP, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET e TFTP.[22m, [1mPOP3S, RTMP, RTSP, SCP, SFTP, SMTP, SMTPS, telnet e TFTP.[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+fonts-liberation
+
+[1mliberação de fontes[22m
+
+Translations of [4mfonts-liberation[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mfonts-liberation[24m
+    [1mliberação de fontes[22m, [1mFontes-liberação[22m
+
+Description-en: Fonts with the same metrics as Times, Arial and Courier
+
+[1mDescription-pt: Fontes com as mesmas métricas que Times, Arial e Courier[22m
+
+Translations of [4mDescription-en: Fonts with the same metrics as Times, Arial and Courier[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: Fonts with the same metrics as Times, Arial and Courier[24m
+    [1mDescription-pt: Fontes com as mesmas métricas que Times, Arial e Courier[22m, [1mDescription-pt: Fontes com a mesma métrica de Times, Arial e Courier[22m
+
+A set of serif, sans-serif and monospaced fonts from Red Hat with
+
+[1mUm conjunto de fontes serif, sans-serif e monoespaçadas da Red Hat com[22m
+
+Translations of [4mA set of serif, sans-serif and monospaced fonts from Red Hat with[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mA set of serif, sans-serif and monospaced fonts from Red Hat with[24m
+    [1mUm conjunto de fontes serif, sans-serif e monoespaçadas da Red Hat com[22m, [1mUm conjunto de fontes com serifa, sans-serif e monoespaçada da Red Hat com[22m
+
+exactly the same metrics as the (non-free) Microsoft Times, Arial
+
+[1mexatamente as mesmas métricas que o (não-livre) Microsoft Times, Arial[22m
+
+Translations of [4mexactly the same metrics as the (non-free) Microsoft Times, Arial[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mexactly the same metrics as the (non-free) Microsoft Times, Arial[24m
+    [1mexatamente as mesmas métricas que o (não-livre) Microsoft Times, Arial[22m, [1mexatamente as mesmas métricas que o Microsoft Times (não gratuito), Arial[22m
+
+and Courier fonts, which implies those fonts can serve as a drop-in
+
+[1me fontes Courier, o que implica que essas fontes podem servir como um drop-in[22m
+
+Translations of [4mand Courier fonts, which implies those fonts can serve as a drop-in[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mand Courier fonts, which implies those fonts can serve as a drop-in[24m
+    [1me fontes Courier, o que implica que essas fontes podem servir como um drop-in[22m, [1me fontes Courier, o que implica que essas fontes podem servir como[22m
+
+replacement. The font family is named Liberation.
+
+[1msubstituição. A família de fontes é denominada Liberation.[22m
+
+Translations of [4mreplacement. The font family is named Liberation.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mreplacement.[24m
+    [1msubstituição.[22m, [1mreposição.[22m
+[4mThe font family is named Liberation.[24m
+    [1mA família de fontes é denominada Liberation.[22m, [1mA família de fontes chama-se Liberation.[22m
+
+--
+
+[1m--[22m
+
+Translations of [4m--[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m--[24m
+    [1m--[22m, [1m—[22m
+
+Description-en: Fonts with the same metrics as Times, Arial and Courier
+
+[1mDescription-pt: Fontes com as mesmas métricas que Times, Arial e Courier[22m
+
+Translations of [4mDescription-en: Fonts with the same metrics as Times, Arial and Courier[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: Fonts with the same metrics as Times, Arial and Courier[24m
+    [1mDescription-pt: Fontes com as mesmas métricas que Times, Arial e Courier[22m, [1mDescription-pt: Fontes com a mesma métrica de Times, Arial e Courier[22m
+
+A set of serif, sans-serif and monospaced fonts from Red Hat with
+
+[1mUm conjunto de fontes serif, sans-serif e monoespaçadas da Red Hat com[22m
+
+Translations of [4mA set of serif, sans-serif and monospaced fonts from Red Hat with[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mA set of serif, sans-serif and monospaced fonts from Red Hat with[24m
+    [1mUm conjunto de fontes serif, sans-serif e monoespaçadas da Red Hat com[22m, [1mUm conjunto de fontes com serifa, sans-serif e monoespaçada da Red Hat com[22m
+
+exactly the same metrics as the (non-free) Microsoft Times, Arial
+
+[1mexatamente as mesmas métricas que o (não-livre) Microsoft Times, Arial[22m
+
+Translations of [4mexactly the same metrics as the (non-free) Microsoft Times, Arial[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mexactly the same metrics as the (non-free) Microsoft Times, Arial[24m
+    [1mexatamente as mesmas métricas que o (não-livre) Microsoft Times, Arial[22m, [1mexatamente as mesmas métricas que o Microsoft Times (não gratuito), Arial[22m
+
+and Courier fonts, which implies those fonts can serve as a drop-in
+
+[1me fontes Courier, o que implica que essas fontes podem servir como um drop-in[22m
+
+Translations of [4mand Courier fonts, which implies those fonts can serve as a drop-in[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mand Courier fonts, which implies those fonts can serve as a drop-in[24m
+    [1me fontes Courier, o que implica que essas fontes podem servir como um drop-in[22m, [1me fontes Courier, o que implica que essas fontes podem servir como[22m
+
+replacement. The font family is named Liberation.
+
+[1msubstituição. A família de fontes é denominada Liberation.[22m
+
+Translations of [4mreplacement. The font family is named Liberation.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mreplacement.[24m
+    [1msubstituição.[22m, [1mreposição.[22m
+[4mThe font family is named Liberation.[24m
+    [1mA família de fontes é denominada Liberation.[22m, [1mA família de fontes chama-se Liberation.[22m
+
+gconf-service
+
+[1mgconf-service[22m
+
+Translations of [4mgconf-service[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mgconf-service[24m
+    [1mgconf-service[22m, [1mserviço gconf[22m
+
+Description-en: GNOME configuration database system (D-Bus service)
+
+[1mDescription-pt: Sistema de banco de dados de configuração do GNOME (serviço D-Bus)[22m
+
+Translations of [4mDescription-en: GNOME configuration database system (D-Bus service)[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: GNOME configuration database system (D-Bus service)[24m
+    [1mDescription-pt: Sistema de banco de dados de configuração do GNOME (serviço D-Bus)[22m, [1mDescription-pt: sistema de banco de dados de configuração GNOME (serviço D-Bus)[22m
+
+GConf is a configuration database system for storing application
+
+[1mGConf é um sistema de banco de dados de configuração para armazenar aplicativos[22m
+
+Translations of [4mGConf is a configuration database system for storing application[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mGConf is a configuration database system for storing application[24m
+    [1mGConf é um sistema de banco de dados de configuração para armazenar aplicativos[22m, [1mGConf é um sistema de banco de dados de configuração para armazenar[22m
+
+preferences. It supports default or mandatory settings set by the
+
+[1mpreferências. Ele suporta configurações padrão ou obrigatórias definidas pelo[22m
+
+Translations of [4mpreferences. It supports default or mandatory settings set by the[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mpreferences.[24m
+    [1mpreferências.[22m, [1mpreferência[22m
+[4mIt supports default or mandatory settings set by the[24m
+    [1mEle suporta configurações padrão ou obrigatórias definidas pelo[22m, [1mEle oferece suporte a configurações padrão ou obrigatórias definidas pelo[22m
+
+administrator, and changes to the database are instantly applied to all
+
+[1madministrador, e as alterações no banco de dados são aplicadas instantaneamente a todos[22m
+
+Translations of [4madministrator, and changes to the database are instantly applied to all[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4madministrator, and changes to the database are instantly applied to all[24m
+    [1madministrador, e as alterações no banco de dados são aplicadas instantaneamente a todos[22m, [1madministrador, e as mudanças no banco de dados são aplicadas instantaneamente a todos[22m
+
+running applications. It is written for the GNOME desktop but doesn't
+
+[1maplicativos em execução. Ele foi escrito para a área de trabalho do GNOME, mas não[22m
+
+Translations of [4mrunning applications. It is written for the GNOME desktop but doesn't[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mrunning applications.[24m
+    [1maplicativos em execução.[22m, [1maplicativos rodando.[22m
+[4mIt is written for the GNOME desktop but doesn't[24m
+    [1mEle foi escrito para a área de trabalho do GNOME, mas não[22m, [1mFoi escrito para a área de trabalho do GNOME, mas não[22m
+
+libappindicator3-1
+
+[1mlibappindicator3-1[22m
+
+Translations of [4mlibappindicator3-1[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mlibappindicator3-1[24m
+    [1mlibappindicator3-1[22m, [1mindicador de libapp3-1[22m
+
+Description-en: Application Indicators
+
+[1mDescription-pt: Indicadores de Aplicação[22m
+
+Translations of [4mDescription-en: Application Indicators[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: Application Indicators[24m
+    [1mDescription-pt: Indicadores de Aplicação[22m, [1mDescrição-pt: Indicadores de aplicação[22m
+
+A library and indicator to take menus from applications and place them in
+
+[1mUma biblioteca e indicador para pegar menus de aplicativos e colocá-los em[22m
+
+Translations of [4mA library and indicator to take menus from applications and place them in[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mA library and indicator to take menus from applications and place them in[24m
+    [1mUma biblioteca e indicador para pegar menus de aplicativos e colocá-los em[22m, [1mUma biblioteca e um indicador para pegar os menus dos aplicativos e colocá-los em[22m
+
+the panel.
+
+[1mo painel.[22m
+
+Translations of [4mthe panel.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mthe panel.[24m
+    [1mo painel.[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+This package contains shared libraries to be used by applications.
+
+[1mEste pacote contém bibliotecas compartilhadas para serem usadas por aplicativos.[22m
+
+Translations of [4mThis package contains shared libraries to be used by applications.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mThis package contains shared libraries to be used by applications.[24m
+    [1mEste pacote contém bibliotecas compartilhadas para serem usadas por aplicativos.[22m, [1mEste pacote contém bibliotecas compartilhadas a serem usadas pelos aplicativos.[22m
+
+--
+
+[1m--[22m
+
+Translations of [4m--[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m--[24m
+    [1m--[22m, [1m—[22m
+
+Description-en: Application Indicators
+
+[1mDescription-pt: Indicadores de Aplicação[22m
+
+Translations of [4mDescription-en: Application Indicators[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: Application Indicators[24m
+    [1mDescription-pt: Indicadores de Aplicação[22m, [1mDescrição-pt: Indicadores de aplicação[22m
+
+A library and indicator to take menus from applications and place them in
+
+[1mUma biblioteca e indicador para pegar menus de aplicativos e colocá-los em[22m
+
+Translations of [4mA library and indicator to take menus from applications and place them in[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mA library and indicator to take menus from applications and place them in[24m
+    [1mUma biblioteca e indicador para pegar menus de aplicativos e colocá-los em[22m, [1mUma biblioteca e um indicador para pegar os menus dos aplicativos e colocá-los em[22m
+
+the panel.
+
+[1mo painel.[22m
+
+Translations of [4mthe panel.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mthe panel.[24m
+    [1mo painel.[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+This package contains shared libraries to be used by applications.
+
+[1mEste pacote contém bibliotecas compartilhadas para serem usadas por aplicativos.[22m
+
+Translations of [4mThis package contains shared libraries to be used by applications.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mThis package contains shared libraries to be used by applications.[24m
+    [1mEste pacote contém bibliotecas compartilhadas para serem usadas por aplicativos.[22m, [1mEste pacote contém bibliotecas compartilhadas a serem usadas pelos aplicativos.[22m
+
+libasound2
+
+[1mlibasound2[22m
+
+Translations of [4mlibasound2[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mlibasound2[24m
+    [1mlibasound2[22m, [1mlibasom2[22m
+
+Description-en: shared library for ALSA applications
+
+[1mDescription-pt: biblioteca compartilhada para aplicativos ALSA[22m
+
+Translations of [4mDescription-en: shared library for ALSA applications[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: shared library for ALSA applications[24m
+    [1mDescription-pt: biblioteca compartilhada para aplicativos ALSA[22m, [1mDescription-en: biblioteca compartilhada para aplicações ALSA[22m
+
+This package contains the ALSA library and its standard plugins, as well
+
+[1mEste pacote contém a biblioteca ALSA e seus plugins padrão, bem como[22m
+
+Translations of [4mThis package contains the ALSA library and its standard plugins, as well[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mThis package contains the ALSA library and its standard plugins, as well[24m
+    [1mEste pacote contém a biblioteca ALSA e seus plugins padrão, bem como[22m, [1mEste pacote contém a biblioteca ALSA e seus plugins padrão,[22m
+
+as the required configuration files.
+
+[1mcomo os arquivos de configuração necessários.[22m
+
+Translations of [4mas the required configuration files.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mas the required configuration files.[24m
+    [1mcomo os arquivos de configuração necessários.[22m, [1mcomo os arquivos de configuração exigidos.[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+ALSA is the Advanced Linux Sound Architecture.
+
+[1mALSA é a Arquitetura de Som Avançada do Linux.[22m
+
+Translations of [4mALSA is the Advanced Linux Sound Architecture.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mALSA is the Advanced Linux Sound Architecture.[24m
+    [1mALSA é a Arquitetura de Som Avançada do Linux.[22m, [1mALSA é a Advanced Linux Sound Architecture.[22m
+
+--
+
+[1m--[22m
+
+Translations of [4m--[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m--[24m
+    [1m--[22m, [1m—[22m
+
+Description-en: shared library for ALSA applications
+
+[1mDescription-pt: biblioteca compartilhada para aplicativos ALSA[22m
+
+Translations of [4mDescription-en: shared library for ALSA applications[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: shared library for ALSA applications[24m
+    [1mDescription-pt: biblioteca compartilhada para aplicativos ALSA[22m, [1mDescription-en: biblioteca compartilhada para aplicações ALSA[22m
+
+This package contains the ALSA library and its standard plugins, as well
+
+[1mEste pacote contém a biblioteca ALSA e seus plugins padrão, bem como[22m
+
+Translations of [4mThis package contains the ALSA library and its standard plugins, as well[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mThis package contains the ALSA library and its standard plugins, as well[24m
+    [1mEste pacote contém a biblioteca ALSA e seus plugins padrão, bem como[22m, [1mEste pacote contém a biblioteca ALSA e seus plugins padrão,[22m
+
+as the required configuration files.
+
+[1mcomo os arquivos de configuração necessários.[22m
+
+Translations of [4mas the required configuration files.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mas the required configuration files.[24m
+    [1mcomo os arquivos de configuração necessários.[22m, [1mcomo os arquivos de configuração exigidos.[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+ALSA is the Advanced Linux Sound Architecture.
+
+[1mALSA é a Arquitetura de Som Avançada do Linux.[22m
+
+Translations of [4mALSA is the Advanced Linux Sound Architecture.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mALSA is the Advanced Linux Sound Architecture.[24m
+    [1mALSA é a Arquitetura de Som Avançada do Linux.[22m, [1mALSA é a Advanced Linux Sound Architecture.[22m
+
+libbz2-dev
+
+[1mlibbz2-dev[22m
+
+Translations of [4mlibbz2-dev[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mlibbz2-dev[24m
+    [1mlibbz2-dev[22m, [1mlibz2-dev[22m
+
+Description-en: high-quality block-sorting file compressor library - development
+
+[1mDescription-pt: biblioteca de compressão de arquivos de classificação de blocos de alta qualidade - desenvolvimento[22m
+
+Translations of [4mDescription-en: high-quality block-sorting file compressor library - development[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: high-quality block-sorting file compressor library - development[24m
+    [1mDescription-pt: biblioteca de compressão de arquivos de classificação de blocos de alta qualidade - desenvolvimento[22m, [1mDescription-pt: biblioteca de compressores de arquivos de classificação de blocos de alta qualidade - desenvolvimento[22m
+
+Static libraries and include files for the bzip2 compressor library.
+
+[1mBibliotecas estáticas e arquivos de inclusão para a biblioteca do compressor bzip2.[22m
+
+Translations of [4mStatic libraries and include files for the bzip2 compressor library.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mStatic libraries and include files for the bzip2 compressor library.[24m
+    [1mBibliotecas estáticas e arquivos de inclusão para a biblioteca do compressor bzip2.[22m, [1mBibliotecas estáticas e arquivos incluídos para a biblioteca do compressor bzip2.[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+bzip2 is a freely available, patent free, high-quality data compressor.
+
+[1mO bzip2 é um compressor de dados de alta qualidade, livre de patentes e disponível gratuitamente.[22m
+
+Translations of [4mbzip2 is a freely available, patent free, high-quality data compressor.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mbzip2 is a freely available, patent free, high-quality data compressor.[24m
+    [1mO bzip2 é um compressor de dados de alta qualidade, livre de patentes e disponível gratuitamente.[22m, [1mO bzip2 é um compressor de dados de alta qualidade disponível gratuitamente, sem patentes.[22m
+
+It typically compresses files to within 10% to 15% of the best available
+
+[1mEle normalmente compacta arquivos dentro de 10% a 15% do melhor disponível[22m
+
+Translations of [4mIt typically compresses files to within 10% to 15% of the best available[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mIt typically compresses files to within 10% to 15% of the best available[24m
+    [1mEle normalmente compacta arquivos dentro de 10% a 15% do melhor disponível[22m, [1mEle normalmente compacta os arquivos em 10% a 15% do melhor disponível[22m
+
+--
+
+[1m--[22m
+
+Translations of [4m--[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m--[24m
+    [1m--[22m, [1m—[22m
+
+Description-en: high-quality block-sorting file compressor library - development
+
+[1mDescription-pt: biblioteca de compressão de arquivos de classificação de blocos de alta qualidade - desenvolvimento[22m
+
+Translations of [4mDescription-en: high-quality block-sorting file compressor library - development[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: high-quality block-sorting file compressor library - development[24m
+    [1mDescription-pt: biblioteca de compressão de arquivos de classificação de blocos de alta qualidade - desenvolvimento[22m, [1mDescription-pt: biblioteca de compressores de arquivos de classificação de blocos de alta qualidade - desenvolvimento[22m
+
+Static libraries and include files for the bzip2 compressor library.
+
+[1mBibliotecas estáticas e arquivos de inclusão para a biblioteca do compressor bzip2.[22m
+
+Translations of [4mStatic libraries and include files for the bzip2 compressor library.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mStatic libraries and include files for the bzip2 compressor library.[24m
+    [1mBibliotecas estáticas e arquivos de inclusão para a biblioteca do compressor bzip2.[22m, [1mBibliotecas estáticas e arquivos incluídos para a biblioteca do compressor bzip2.[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+bzip2 is a freely available, patent free, high-quality data compressor.
+
+[1mO bzip2 é um compressor de dados de alta qualidade, livre de patentes e disponível gratuitamente.[22m
+
+Translations of [4mbzip2 is a freely available, patent free, high-quality data compressor.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mbzip2 is a freely available, patent free, high-quality data compressor.[24m
+    [1mO bzip2 é um compressor de dados de alta qualidade, livre de patentes e disponível gratuitamente.[22m, [1mO bzip2 é um compressor de dados de alta qualidade disponível gratuitamente, sem patentes.[22m
+
+It typically compresses files to within 10% to 15% of the best available
+
+[1mEle normalmente compacta arquivos dentro de 10% a 15% do melhor disponível[22m
+
+Translations of [4mIt typically compresses files to within 10% to 15% of the best available[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mIt typically compresses files to within 10% to 15% of the best available[24m
+    [1mEle normalmente compacta arquivos dentro de 10% a 15% do melhor disponível[22m, [1mEle normalmente compacta os arquivos em 10% a 15% do melhor disponível[22m
+
+libgconf-2-4
+
+[1mlibgconf-2-4[22m
+
+Translations of [4mlibgconf-2-4[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mlibgconf-2-4[24m
+    [1mlibgconf-2-4[22m, [1mLibconf-2-4[22m
+
+Description-en: GNOME configuration database system (shared libraries)
+
+[1mDescription-pt: Sistema de banco de dados de configuração do GNOME (bibliotecas compartilhadas)[22m
+
+Translations of [4mDescription-en: GNOME configuration database system (shared libraries)[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: GNOME configuration database system (shared libraries)[24m
+    [1mDescription-pt: Sistema de banco de dados de configuração do GNOME (bibliotecas compartilhadas)[22m, [1mDescription-pt: sistema de banco de dados de configuração GNOME (bibliotecas compartilhadas)[22m
+
+GConf is a configuration database system for storing application
+
+[1mGConf é um sistema de banco de dados de configuração para armazenar aplicativos[22m
+
+Translations of [4mGConf is a configuration database system for storing application[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mGConf is a configuration database system for storing application[24m
+    [1mGConf é um sistema de banco de dados de configuração para armazenar aplicativos[22m, [1mGConf é um sistema de banco de dados de configuração para armazenar[22m
+
+preferences. It supports default or mandatory settings set by the
+
+[1mpreferências. Ele suporta configurações padrão ou obrigatórias definidas pelo[22m
+
+Translations of [4mpreferences. It supports default or mandatory settings set by the[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mpreferences.[24m
+    [1mpreferências.[22m, [1mpreferência[22m
+[4mIt supports default or mandatory settings set by the[24m
+    [1mEle suporta configurações padrão ou obrigatórias definidas pelo[22m, [1mEle oferece suporte a configurações padrão ou obrigatórias definidas pelo[22m
+
+administrator, and changes to the database are instantly applied to all
+
+[1madministrador, e as alterações no banco de dados são aplicadas instantaneamente a todos[22m
+
+Translations of [4madministrator, and changes to the database are instantly applied to all[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4madministrator, and changes to the database are instantly applied to all[24m
+    [1madministrador, e as alterações no banco de dados são aplicadas instantaneamente a todos[22m, [1madministrador, e as mudanças no banco de dados são aplicadas instantaneamente a todos[22m
+
+running applications. It is written for the GNOME desktop but doesn't
+
+[1maplicativos em execução. Ele foi escrito para a área de trabalho do GNOME, mas não[22m
+
+Translations of [4mrunning applications. It is written for the GNOME desktop but doesn't[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mrunning applications.[24m
+    [1maplicativos em execução.[22m, [1maplicativos rodando.[22m
+[4mIt is written for the GNOME desktop but doesn't[24m
+    [1mEle foi escrito para a área de trabalho do GNOME, mas não[22m, [1mFoi escrito para a área de trabalho do GNOME, mas não[22m
+
+libindicator7
+
+[1mlibindicator7[22m
+
+Translations of [4mlibindicator7[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mlibindicator7[24m
+    [1mlibindicator7[22m, [1mindicador lib7[22m
+
+Description-en: panel indicator applet - shared library
+
+[1mDescription-pt: applet indicador de painel - biblioteca compartilhada[22m
+
+Translations of [4mDescription-en: panel indicator applet - shared library[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: panel indicator applet - shared library[24m
+    [1mDescription-pt: applet indicador de painel - biblioteca compartilhada[22m, [1mDescription-pt: miniaplicativo indicador de painel - biblioteca compartilhada[22m
+
+This library contains information to build indicators to go into
+
+[1mEsta biblioteca contém informações para construir indicadores para entrar em[22m
+
+Translations of [4mThis library contains information to build indicators to go into[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mThis library contains information to build indicators to go into[24m
+    [1mEsta biblioteca contém informações para construir indicadores para entrar em[22m, [1mEsta biblioteca contém informações para construir indicadores para[22m
+
+the indicator applet.
+
+[1mo miniaplicativo indicador.[22m
+
+Translations of [4mthe indicator applet.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mthe indicator applet.[24m
+    [1mo miniaplicativo indicador.[22m, [1mo applet indicador.[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+This package contains the library itself.
+
+[1mEste pacote contém a própria biblioteca.[22m
+
+Translations of [4mThis package contains the library itself.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mThis package contains the library itself.[24m
+    [1mEste pacote contém a própria biblioteca.[22m, [1mEste pacote contém a biblioteca propriamente dita.[22m
+
+libncurses5-dev
+
+[1mlibncurses5-dev[22m
+
+Translations of [4mlibncurses5-dev[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mlibncurses5-dev[24m
+    [1mlibncurses5-dev[22m, [1mlibncursos5-dev[22m
+
+Description-en: developer's libraries for ncurses
+
+[1mDescription-pt: bibliotecas do desenvolvedor para ncurses[22m
+
+Translations of [4mDescription-en: developer's libraries for ncurses[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: developer's libraries for ncurses[24m
+    [1mDescription-pt: bibliotecas do desenvolvedor para ncurses[22m, [1mDescription-pt: bibliotecas de desenvolvedores para ncurses[22m
+
+The ncurses library routines are a terminal-independent method of
+
+[1mAs rotinas da biblioteca ncurses são um método independente de terminal de[22m
+
+Translations of [4mThe ncurses library routines are a terminal-independent method of[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mThe ncurses library routines are a terminal-independent method of[24m
+    [1mAs rotinas da biblioteca ncurses são um método independente de terminal de[22m, [1mAs rotinas da biblioteca ncurses são um método independente de terminal para[22m
+
+updating character screens with reasonable optimization.
+
+[1matualizando telas de caracteres com otimização razoável.[22m
+
+Translations of [4mupdating character screens with reasonable optimization.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mupdating character screens with reasonable optimization.[24m
+    [1matualizando telas de caracteres com otimização razoável.[22m, [1matualizando telas de personagens com otimização razoável.[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+This package contains the header files, static libraries
+
+[1mEste pacote contém os arquivos de cabeçalho, bibliotecas estáticas[22m
+
+Translations of [4mThis package contains the header files, static libraries[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mThis package contains the header files, static libraries[24m
+    [1mEste pacote contém os arquivos de cabeçalho, bibliotecas estáticas[22m, [1mEste pacote contém os arquivos de cabeçalho, as bibliotecas estáticas[22m
+
+--
+
+[1m--[22m
+
+Translations of [4m--[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m--[24m
+    [1m--[22m, [1m—[22m
+
+Description-en: developer's libraries for ncurses
+
+[1mDescription-pt: bibliotecas do desenvolvedor para ncurses[22m
+
+Translations of [4mDescription-en: developer's libraries for ncurses[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: developer's libraries for ncurses[24m
+    [1mDescription-pt: bibliotecas do desenvolvedor para ncurses[22m, [1mDescription-pt: bibliotecas de desenvolvedores para ncurses[22m
+
+The ncurses library routines are a terminal-independent method of
+
+[1mAs rotinas da biblioteca ncurses são um método independente de terminal de[22m
+
+Translations of [4mThe ncurses library routines are a terminal-independent method of[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mThe ncurses library routines are a terminal-independent method of[24m
+    [1mAs rotinas da biblioteca ncurses são um método independente de terminal de[22m, [1mAs rotinas da biblioteca ncurses são um método independente de terminal para[22m
+
+updating character screens with reasonable optimization.
+
+[1matualizando telas de caracteres com otimização razoável.[22m
+
+Translations of [4mupdating character screens with reasonable optimization.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mupdating character screens with reasonable optimization.[24m
+    [1matualizando telas de caracteres com otimização razoável.[22m, [1matualizando telas de personagens com otimização razoável.[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+This package contains the header files, static libraries
+
+[1mEste pacote contém os arquivos de cabeçalho, bibliotecas estáticas[22m
+
+Translations of [4mThis package contains the header files, static libraries[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mThis package contains the header files, static libraries[24m
+    [1mEste pacote contém os arquivos de cabeçalho, bibliotecas estáticas[22m, [1mEste pacote contém os arquivos de cabeçalho, as bibliotecas estáticas[22m
+
+libncursesw5-dev
+
+[1mlibncursesw5-dev[22m
+
+Translations of [4mlibncursesw5-dev[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mlibncursesw5-dev[24m
+    [1mlibncursesw5-dev[22m, [1mlibncurses w5-dev[22m
+
+Description-en: developer's libraries for ncursesw
+
+[1mDescription-pt: bibliotecas do desenvolvedor para ncursesw[22m
+
+Translations of [4mDescription-en: developer's libraries for ncursesw[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: developer's libraries for ncursesw[24m
+    [1mDescription-pt: bibliotecas do desenvolvedor para ncursesw[22m, [1mDescription-pt: bibliotecas de desenvolvedores para ncursesw[22m
+
+The ncurses library routines are a terminal-independent method of
+
+[1mAs rotinas da biblioteca ncurses são um método independente de terminal de[22m
+
+Translations of [4mThe ncurses library routines are a terminal-independent method of[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mThe ncurses library routines are a terminal-independent method of[24m
+    [1mAs rotinas da biblioteca ncurses são um método independente de terminal de[22m, [1mAs rotinas da biblioteca ncurses são um método independente de terminal para[22m
+
+updating character screens with reasonable optimization.
+
+[1matualizando telas de caracteres com otimização razoável.[22m
+
+Translations of [4mupdating character screens with reasonable optimization.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mupdating character screens with reasonable optimization.[24m
+    [1matualizando telas de caracteres com otimização razoável.[22m, [1matualizando telas de personagens com otimização razoável.[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+This package contains the header files, static libraries
+
+[1mEste pacote contém os arquivos de cabeçalho, bibliotecas estáticas[22m
+
+Translations of [4mThis package contains the header files, static libraries[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mThis package contains the header files, static libraries[24m
+    [1mEste pacote contém os arquivos de cabeçalho, bibliotecas estáticas[22m, [1mEste pacote contém os arquivos de cabeçalho, as bibliotecas estáticas[22m
+
+--
+
+[1m--[22m
+
+Translations of [4m--[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m--[24m
+    [1m--[22m, [1m—[22m
+
+Description-en: developer's libraries for ncursesw
+
+[1mDescription-pt: bibliotecas do desenvolvedor para ncursesw[22m
+
+Translations of [4mDescription-en: developer's libraries for ncursesw[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: developer's libraries for ncursesw[24m
+    [1mDescription-pt: bibliotecas do desenvolvedor para ncursesw[22m, [1mDescription-pt: bibliotecas de desenvolvedores para ncursesw[22m
+
+The ncurses library routines are a terminal-independent method of
+
+[1mAs rotinas da biblioteca ncurses são um método independente de terminal de[22m
+
+Translations of [4mThe ncurses library routines are a terminal-independent method of[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mThe ncurses library routines are a terminal-independent method of[24m
+    [1mAs rotinas da biblioteca ncurses são um método independente de terminal de[22m, [1mAs rotinas da biblioteca ncurses são um método independente de terminal para[22m
+
+updating character screens with reasonable optimization.
+
+[1matualizando telas de caracteres com otimização razoável.[22m
+
+Translations of [4mupdating character screens with reasonable optimization.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mupdating character screens with reasonable optimization.[24m
+    [1matualizando telas de caracteres com otimização razoável.[22m, [1matualizando telas de personagens com otimização razoável.[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+This package contains the header files, static libraries
+
+[1mEste pacote contém os arquivos de cabeçalho, bibliotecas estáticas[22m
+
+Translations of [4mThis package contains the header files, static libraries[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mThis package contains the header files, static libraries[24m
+    [1mEste pacote contém os arquivos de cabeçalho, bibliotecas estáticas[22m, [1mEste pacote contém os arquivos de cabeçalho, as bibliotecas estáticas[22m
+
+libnss3-dev
+
+[1mlibnss3-dev[22m
+
+Translations of [4mlibnss3-dev[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mlibnss3-dev[24m
+    [1mlibnss3-dev[22m, [1mlibbss3-dev[22m
+
+Description-en: Development files for the Network Security Service libraries
+
+[1mDescription-pt: Arquivos de desenvolvimento para as bibliotecas do Serviço de Segurança de Rede[22m
+
+Translations of [4mDescription-en: Development files for the Network Security Service libraries[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: Development files for the Network Security Service libraries[24m
+    [1mDescription-pt: Arquivos de desenvolvimento para as bibliotecas do Serviço de Segurança de Rede[22m, [1mDescription-pt: Arquivos de desenvolvimento para as bibliotecas do Network Security Service[22m
+
+This is a set of libraries designed to support cross-platform development
+
+[1mEste é um conjunto de bibliotecas projetadas para suportar o desenvolvimento multiplataforma[22m
+
+Translations of [4mThis is a set of libraries designed to support cross-platform development[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mThis is a set of libraries designed to support cross-platform development[24m
+    [1mEste é um conjunto de bibliotecas projetadas para suportar o desenvolvimento multiplataforma[22m, [1mEste é um conjunto de bibliotecas projetadas para oferecer suporte ao desenvolvimento de plataforma cruzada[22m
+
+of security-enabled client and server applications. It can support SSLv2
+
+[1mde aplicativos de cliente e servidor habilitados para segurança. Pode suportar SSLv2[22m
+
+Translations of [4mof security-enabled client and server applications. It can support SSLv2[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mof security-enabled client and server applications.[24m
+    [1mde aplicativos de cliente e servidor habilitados para segurança.[22m, [1mde aplicativos cliente e servidor com segurança.[22m
+[4mIt can support SSLv2[24m
+    [1mPode suportar SSLv2[22m, [1mEle pode oferecer suporte a SSLv2[22m
+
+and  v4, TLS, PKCS #5, #7, #11, #12, S/MIME, X.509 v3 certificates and
+
+[1me certificados v4, TLS, PKCS #5, #7, #11, #12, S/MIME, X.509 v3 e[22m
+
+Translations of [4mand  v4, TLS, PKCS #5, #7, #11, #12, S/MIME, X.509 v3 certificates and[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mand  v4, TLS, PKCS #5, #7, #11, #12, S/MIME, X.509 v3 certificates and[24m
+    [1me certificados v4, TLS, PKCS #5, #7, #11, #12, S/MIME, X.509 v3 e[22m, [1me v4, TLS, PKCS #5, #7, #11, #12, S/MIME, certificados X.509 v3 e[22m
+
+other security standards.
+
+[1moutros padrões de segurança.[22m
+
+Translations of [4mother security standards.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mother security standards.[24m
+    [1moutros padrões de segurança.[22m, [1moutras normas de segurança.[22m
+
+--
+
+[1m--[22m
+
+Translations of [4m--[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m--[24m
+    [1m--[22m, [1m—[22m
+
+Description-en: Development files for the Network Security Service libraries
+
+[1mDescription-pt: Arquivos de desenvolvimento para as bibliotecas do Serviço de Segurança de Rede[22m
+
+Translations of [4mDescription-en: Development files for the Network Security Service libraries[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: Development files for the Network Security Service libraries[24m
+    [1mDescription-pt: Arquivos de desenvolvimento para as bibliotecas do Serviço de Segurança de Rede[22m, [1mDescription-pt: Arquivos de desenvolvimento para as bibliotecas do Network Security Service[22m
+
+This is a set of libraries designed to support cross-platform development
+
+[1mEste é um conjunto de bibliotecas projetadas para suportar o desenvolvimento multiplataforma[22m
+
+Translations of [4mThis is a set of libraries designed to support cross-platform development[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mThis is a set of libraries designed to support cross-platform development[24m
+    [1mEste é um conjunto de bibliotecas projetadas para suportar o desenvolvimento multiplataforma[22m, [1mEste é um conjunto de bibliotecas projetadas para oferecer suporte ao desenvolvimento de plataforma cruzada[22m
+
+of security-enabled client and server applications. It can support SSLv2
+
+[1mde aplicativos de cliente e servidor habilitados para segurança. Pode suportar SSLv2[22m
+
+Translations of [4mof security-enabled client and server applications. It can support SSLv2[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mof security-enabled client and server applications.[24m
+    [1mde aplicativos de cliente e servidor habilitados para segurança.[22m, [1mde aplicativos cliente e servidor com segurança.[22m
+[4mIt can support SSLv2[24m
+    [1mPode suportar SSLv2[22m, [1mEle pode oferecer suporte a SSLv2[22m
+
+and  v4, TLS, PKCS #5, #7, #11, #12, S/MIME, X.509 v3 certificates and
+
+[1me certificados v4, TLS, PKCS #5, #7, #11, #12, S/MIME, X.509 v3 e[22m
+
+Translations of [4mand  v4, TLS, PKCS #5, #7, #11, #12, S/MIME, X.509 v3 certificates and[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mand  v4, TLS, PKCS #5, #7, #11, #12, S/MIME, X.509 v3 certificates and[24m
+    [1me certificados v4, TLS, PKCS #5, #7, #11, #12, S/MIME, X.509 v3 e[22m, [1me v4, TLS, PKCS #5, #7, #11, #12, S/MIME, certificados X.509 v3 e[22m
+
+other security standards.
+
+[1moutros padrões de segurança.[22m
+
+Translations of [4mother security standards.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mother security standards.[24m
+    [1moutros padrões de segurança.[22m, [1moutras normas de segurança.[22m
+
+libpango1.0-0
+
+[1mlibpango1.0-0[22m
+
+Translations of [4mlibpango1.0-0[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mlibpango1.0-0[24m
+    [1mlibpango1.0-0[22m, [1mlibpango 1.0-0[22m
+
+Description-en: Layout and rendering of internationalized text (transitional package)
+
+[1mDescription-pt: Layout e renderização de texto internacionalizado (pacote de transição)[22m
+
+Translations of [4mDescription-en: Layout and rendering of internationalized text (transitional package)[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: Layout and rendering of internationalized text (transitional package)[24m
+    [1mDescription-pt: Layout e renderização de texto internacionalizado (pacote de transição)[22m, [1mDescription-pt: Layout e renderização de texto internacionalizado (pacote transitório)[22m
+
+Pango is a library for layout and rendering of text, with an emphasis
+
+[1mPango é uma biblioteca para layout e renderização de texto, com ênfase[22m
+
+Translations of [4mPango is a library for layout and rendering of text, with an emphasis[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mPango is a library for layout and rendering of text, with an emphasis[24m
+    [1mPango é uma biblioteca para layout e renderização de texto, com ênfase[22m, [1mPango é uma biblioteca de layout e renderização de texto, com ênfase[22m
+
+on internationalization. Pango can be used anywhere that text layout is
+
+[1msobre internacionalização. Pango pode ser usado em qualquer lugar em que o layout do texto seja[22m
+
+Translations of [4mon internationalization. Pango can be used anywhere that text layout is[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mon internationalization.[24m
+    [1msobre internacionalização.[22m, [1mna Internacionalização.[22m
+[4mPango can be used anywhere that text layout is[24m
+    [1mPango pode ser usado em qualquer lugar em que o layout do texto seja[22m, [1mPango pode ser usado em qualquer lugar que o layout do texto seja[22m
+
+needed. however, most of the work on Pango-1.0 was done using the GTK+
+
+[1mprecisava. no entanto, a maior parte do trabalho no Pango-1.0 foi feito usando o GTK+[22m
+
+Translations of [4mneeded. however, most of the work on Pango-1.0 was done using the GTK+[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mneeded.[24m
+    [1mprecisava.[22m, [1mnecessário.[22m, [1mprecisa.[22m
+[4mhowever, most of the work on Pango-1.0 was done using the GTK+[24m
+    [1mno entanto, a maior parte do trabalho no Pango-1.0 foi feito usando o GTK+[22m, [1mno entanto, a maioria do trabalho no Pango-1.0 foi feito usando o GTK+[22m
+
+widget toolkit as a test platform. Pango forms the core of text and
+
+[1mkit de ferramentas de widget como plataforma de teste. Pango forma o núcleo do texto e[22m
+
+Translations of [4mwidget toolkit as a test platform. Pango forms the core of text and[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mwidget toolkit as a test platform.[24m
+    [1mkit de ferramentas de widget como plataforma de teste.[22m, [1mtoolkit widget como plataforma de teste.[22m
+[4mPango forms the core of text and[24m
+    [1mPango forma o núcleo do texto e[22m, [1mPango constitui o núcleo do texto e[22m
+
+--
+
+[1m--[22m
+
+Translations of [4m--[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m--[24m
+    [1m--[22m, [1m—[22m
+
+Description-en: Layout and rendering of internationalized text (transitional package)
+
+[1mDescription-pt: Layout e renderização de texto internacionalizado (pacote de transição)[22m
+
+Translations of [4mDescription-en: Layout and rendering of internationalized text (transitional package)[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: Layout and rendering of internationalized text (transitional package)[24m
+    [1mDescription-pt: Layout e renderização de texto internacionalizado (pacote de transição)[22m, [1mDescription-pt: Layout e renderização de texto internacionalizado (pacote transitório)[22m
+
+Pango is a library for layout and rendering of text, with an emphasis
+
+[1mPango é uma biblioteca para layout e renderização de texto, com ênfase[22m
+
+Translations of [4mPango is a library for layout and rendering of text, with an emphasis[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mPango is a library for layout and rendering of text, with an emphasis[24m
+    [1mPango é uma biblioteca para layout e renderização de texto, com ênfase[22m, [1mPango é uma biblioteca de layout e renderização de texto, com ênfase[22m
+
+on internationalization. Pango can be used anywhere that text layout is
+
+[1msobre internacionalização. Pango pode ser usado em qualquer lugar em que o layout do texto seja[22m
+
+Translations of [4mon internationalization. Pango can be used anywhere that text layout is[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mon internationalization.[24m
+    [1msobre internacionalização.[22m, [1mna Internacionalização.[22m
+[4mPango can be used anywhere that text layout is[24m
+    [1mPango pode ser usado em qualquer lugar em que o layout do texto seja[22m, [1mPango pode ser usado em qualquer lugar que o layout do texto seja[22m
+
+needed. however, most of the work on Pango-1.0 was done using the GTK+
+
+[1mprecisava. no entanto, a maior parte do trabalho no Pango-1.0 foi feito usando o GTK+[22m
+
+Translations of [4mneeded. however, most of the work on Pango-1.0 was done using the GTK+[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mneeded.[24m
+    [1mprecisava.[22m, [1mnecessário.[22m, [1mprecisa.[22m
+[4mhowever, most of the work on Pango-1.0 was done using the GTK+[24m
+    [1mno entanto, a maior parte do trabalho no Pango-1.0 foi feito usando o GTK+[22m, [1mno entanto, a maioria do trabalho no Pango-1.0 foi feito usando o GTK+[22m
+
+widget toolkit as a test platform. Pango forms the core of text and
+
+[1mkit de ferramentas de widget como plataforma de teste. Pango forma o núcleo do texto e[22m
+
+Translations of [4mwidget toolkit as a test platform. Pango forms the core of text and[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mwidget toolkit as a test platform.[24m
+    [1mkit de ferramentas de widget como plataforma de teste.[22m, [1mtoolkit widget como plataforma de teste.[22m
+[4mPango forms the core of text and[24m
+    [1mPango forma o núcleo do texto e[22m, [1mPango constitui o núcleo do texto e[22m
+
+libreadline-dev
+
+[1mlibreadline-dev[22m
+
+Translations of [4mlibreadline-dev[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mlibreadline-dev[24m
+    [1mlibreadline-dev[22m, [1mlibreadline- dev[22m
+
+Description-en: GNU readline and history libraries, development files
+
+[1mDescription-pt: GNU readline e bibliotecas de histórico, arquivos de desenvolvimento[22m
+
+Translations of [4mDescription-en: GNU readline and history libraries, development files[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: GNU readline and history libraries, development files[24m
+    [1mDescription-pt: GNU readline e bibliotecas de histórico, arquivos de desenvolvimento[22m, [1mDescription-pt: bibliotecas GNU readline e history, arquivos de desenvolvimento[22m
+
+The GNU readline library aids in the consistency of user interface
+
+[1mA biblioteca GNU readline ajuda na consistência da interface do usuário[22m
+
+Translations of [4mThe GNU readline library aids in the consistency of user interface[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mThe GNU readline library aids in the consistency of user interface[24m
+    [1mA biblioteca GNU readline ajuda na consistência da interface do usuário[22m, [1mA biblioteca GNU readline auxilia na consistência da interface do usuário[22m
+
+across discrete programs that need to provide a command line
+
+[1mem programas discretos que precisam fornecer uma linha de comando[22m
+
+Translations of [4macross discrete programs that need to provide a command line[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4macross discrete programs that need to provide a command line[24m
+    [1mem programas discretos que precisam fornecer uma linha de comando[22m, [1matravés de programas discretos que precisam fornecer uma linha de comando[22m
+
+interface.
+/ˈin(t)ərˌfās/
+
+[1minterface.[22m
+
+Definitions of [4minterface.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+noun
+[1m    (a) interface[22m
+        interface
+
+[4minterface.[24m
+    [1minterface.[22m, [1minterface[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+libsqlite3-dev
+
+[1mlibsqlite3-dev[22m
+
+Translations of [4mlibsqlite3-dev[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mlibsqlite3-dev[24m
+    [1mlibsqlite3-dev[22m, [1mlibsqlite3- dev[22m
+
+Description-en: SQLite 3 development files
+
+[1mDescription-pt: Arquivos de desenvolvimento SQLite 3[22m
+
+Translations of [4mDescription-en: SQLite 3 development files[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: SQLite 3 development files[24m
+    [1mDescription-pt: Arquivos de desenvolvimento SQLite 3[22m, [1mDescrição-pt: Arquivos de desenvolvimento SQLite 3[22m
+
+SQLite is a C library that implements an SQL database engine.
+
+[1mSQLite é uma biblioteca C que implementa um mecanismo de banco de dados SQL.[22m
+
+Translations of [4mSQLite is a C library that implements an SQL database engine.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mSQLite is a C library that implements an SQL database engine.[24m
+    [1mSQLite é uma biblioteca C que implementa um mecanismo de banco de dados SQL.[22m, [1mSQLite é uma biblioteca C que implementa um motor de banco de dados SQL.[22m
+
+Programs that link with the SQLite library can have SQL database
+
+[1mProgramas que se vinculam à biblioteca SQLite podem ter banco de dados SQL[22m
+
+Translations of [4mPrograms that link with the SQLite library can have SQL database[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mPrograms that link with the SQLite library can have SQL database[24m
+    [1mProgramas que se vinculam à biblioteca SQLite podem ter banco de dados SQL[22m, [1mProgramas que se conectam com a biblioteca SQLite podem ter banco de dados SQL[22m
+
+access without running a separate RDBMS process.
+
+[1macesso sem executar um processo RDBMS separado.[22m
+
+Translations of [4maccess without running a separate RDBMS process.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4maccess without running a separate RDBMS process.[24m
+    [1macesso sem executar um processo RDBMS separado.[22m, [1macesso sem executar um processo separado RDBMS.[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+--
+
+[1m--[22m
+
+Translations of [4m--[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m--[24m
+    [1m--[22m, [1m—[22m
+
+Description-en: SQLite 3 development files
+
+[1mDescription-pt: Arquivos de desenvolvimento SQLite 3[22m
+
+Translations of [4mDescription-en: SQLite 3 development files[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: SQLite 3 development files[24m
+    [1mDescription-pt: Arquivos de desenvolvimento SQLite 3[22m, [1mDescrição-pt: Arquivos de desenvolvimento SQLite 3[22m
+
+SQLite is a C library that implements an SQL database engine.
+
+[1mSQLite é uma biblioteca C que implementa um mecanismo de banco de dados SQL.[22m
+
+Translations of [4mSQLite is a C library that implements an SQL database engine.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mSQLite is a C library that implements an SQL database engine.[24m
+    [1mSQLite é uma biblioteca C que implementa um mecanismo de banco de dados SQL.[22m, [1mSQLite é uma biblioteca C que implementa um motor de banco de dados SQL.[22m
+
+Programs that link with the SQLite library can have SQL database
+
+[1mProgramas que se vinculam à biblioteca SQLite podem ter banco de dados SQL[22m
+
+Translations of [4mPrograms that link with the SQLite library can have SQL database[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mPrograms that link with the SQLite library can have SQL database[24m
+    [1mProgramas que se vinculam à biblioteca SQLite podem ter banco de dados SQL[22m, [1mProgramas que se conectam com a biblioteca SQLite podem ter banco de dados SQL[22m
+
+access without running a separate RDBMS process.
+
+[1macesso sem executar um processo RDBMS separado.[22m
+
+Translations of [4maccess without running a separate RDBMS process.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4maccess without running a separate RDBMS process.[24m
+    [1macesso sem executar um processo RDBMS separado.[22m, [1macesso sem executar um processo separado RDBMS.[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+libssl-dev
+
+[1mlibssl-dev[22m
+
+Translations of [4mlibssl-dev[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mlibssl-dev[24m
+    [1mlibssl-dev[22m, [1mlibssl- dev[22m
+
+Description-en: Secure Sockets Layer toolkit - development files
+
+[1mDescription-pt: Kit de ferramentas Secure Sockets Layer - arquivos de desenvolvimento[22m
+
+Translations of [4mDescription-en: Secure Sockets Layer toolkit - development files[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: Secure Sockets Layer toolkit - development files[24m
+    [1mDescription-pt: Kit de ferramentas Secure Sockets Layer - arquivos de desenvolvimento[22m, [1mDescrição-pt: Kit de ferramentas Secure Sockets Layer - arquivos de desenvolvimento[22m
+
+This package is part of the OpenSSL project's implementation of the SSL
+
+[1mEste pacote faz parte da implementação do SSL do projeto OpenSSL[22m
+
+Translations of [4mThis package is part of the OpenSSL project's implementation of the SSL[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mThis package is part of the OpenSSL project's implementation of the SSL[24m
+    [1mEste pacote faz parte da implementação do SSL do projeto OpenSSL[22m, [1mEste pacote é parte da implementação do projeto OpenSSL do SSL[22m
+
+and TLS cryptographic protocols for secure communication over the
+
+[1me protocolos criptográficos TLS para comunicação segura sobre o[22m
+
+Translations of [4mand TLS cryptographic protocols for secure communication over the[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mand TLS cryptographic protocols for secure communication over the[24m
+    [1me protocolos criptográficos TLS para comunicação segura sobre o[22m, [1me protocolos criptográficos TLS para comunicação segura através do[22m
+
+Internet.
+
+[1mInternet.[22m
+
+Definitions of [4mInternet.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+noun
+[1m    (o) Internet[22m
+        Internet
+[1m    (a) Rede[22m
+        Internet
+
+[4mInternet.[24m
+    [1mInternet.[22m, [1minternet[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+--
+
+[1m--[22m
+
+Translations of [4m--[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m--[24m
+    [1m--[22m, [1m—[22m
+
+Description-en: Secure Sockets Layer toolkit - development files
+
+[1mDescription-pt: Kit de ferramentas Secure Sockets Layer - arquivos de desenvolvimento[22m
+
+Translations of [4mDescription-en: Secure Sockets Layer toolkit - development files[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: Secure Sockets Layer toolkit - development files[24m
+    [1mDescription-pt: Kit de ferramentas Secure Sockets Layer - arquivos de desenvolvimento[22m, [1mDescrição-pt: Kit de ferramentas Secure Sockets Layer - arquivos de desenvolvimento[22m
+
+This package is part of the OpenSSL project's implementation of the SSL
+
+[1mEste pacote faz parte da implementação do SSL do projeto OpenSSL[22m
+
+Translations of [4mThis package is part of the OpenSSL project's implementation of the SSL[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mThis package is part of the OpenSSL project's implementation of the SSL[24m
+    [1mEste pacote faz parte da implementação do SSL do projeto OpenSSL[22m, [1mEste pacote é parte da implementação do projeto OpenSSL do SSL[22m
+
+and TLS cryptographic protocols for secure communication over the
+
+[1me protocolos criptográficos TLS para comunicação segura sobre o[22m
+
+Translations of [4mand TLS cryptographic protocols for secure communication over the[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mand TLS cryptographic protocols for secure communication over the[24m
+    [1me protocolos criptográficos TLS para comunicação segura sobre o[22m, [1me protocolos criptográficos TLS para comunicação segura através do[22m
+
+Internet.
+
+[1mInternet.[22m
+
+Definitions of [4mInternet.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+noun
+[1m    (o) Internet[22m
+        Internet
+[1m    (a) Rede[22m
+        Internet
+
+[4mInternet.[24m
+    [1mInternet.[22m, [1minternet[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+libxss1
+
+[1mlibxss1[22m
+
+Translations of [4mlibxss1[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mlibxss1[24m
+    [1mlibxss1[22m, [1mLibxss1[22m
+
+Description-en: X11 Screen Saver extension library
+
+[1mDescription-pt: Biblioteca de extensão do protetor de tela X11[22m
+
+Translations of [4mDescription-en: X11 Screen Saver extension library[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: X11 Screen Saver extension library[24m
+    [1mDescription-pt: Biblioteca de extensão do protetor de tela X11[22m, [1mDescription-pt: Biblioteca de extensão X11 Screen Saver[22m
+
+libXss provides an X Window System client interface to the MIT-SCREEN-SAVER
+
+[1mlibXss fornece uma interface de cliente X Window System para o MIT-SCREEN-SAVER[22m
+
+Translations of [4mlibXss provides an X Window System client interface to the MIT-SCREEN-SAVER[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mlibXss provides an X Window System client interface to the MIT-SCREEN-SAVER[24m
+    [1mlibXss fornece uma interface de cliente X Window System para o MIT-SCREEN-SAVER[22m, [1mlibXss fornece uma interface cliente do X Window System para o MIT-SCREEN-SAVER[22m
+
+extension to the X protocol.
+
+[1mextensão para o protocolo X.[22m
+
+Translations of [4mextension to the X protocol.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mextension to the X protocol.[24m
+    [1mextensão para o protocolo X.[22m, [1mextensão do protocolo X.[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+The Screen Saver extension allows clients behaving as screen savers to
+
+[1mA extensão Screen Saver permite que os clientes se comportem como protetores de tela para[22m
+
+Translations of [4mThe Screen Saver extension allows clients behaving as screen savers to[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mThe Screen Saver extension allows clients behaving as screen savers to[24m
+    [1mA extensão Screen Saver permite que os clientes se comportem como protetores de tela para[22m, [1mA extensão Screen Saver permite que os clientes que se comportam como protetores de tela[22m
+
+llvm
+
+[1mlvm[22m
+
+Translations of [4mllvm[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mllvm[24m
+    [1mlvm[22m, [1mllvm[22m
+
+Description-en: Low-Level Virtual Machine (LLVM)
+
+[1mDescription-pt: Máquina virtual de baixo nível (LLVM)[22m
+
+Translations of [4mDescription-en: Low-Level Virtual Machine (LLVM)[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: Low-Level Virtual Machine (LLVM)[24m
+    [1mDescription-pt: Máquina virtual de baixo nível (LLVM)[22m, [1mDescrição: Máquina Virtual de Baixo Nível (LLVM)[22m
+
+The Low-Level Virtual Machine (LLVM) is a collection of libraries and
+
+[1mA máquina virtual de baixo nível (LLVM) é uma coleção de bibliotecas e[22m
+
+Translations of [4mThe Low-Level Virtual Machine (LLVM) is a collection of libraries and[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mThe Low-Level Virtual Machine (LLVM) is a collection of libraries and[24m
+    [1mA máquina virtual de baixo nível (LLVM) é uma coleção de bibliotecas e[22m, [1mA Low-Level Virtual Machine (LLVM) é uma coleção de bibliotecas e[22m
+
+tools that make it easy to build compilers, optimizers, Just-In-Time
+
+[1mferramentas que facilitam a construção de compiladores, otimizadores, Just-In-Time[22m
+
+Translations of [4mtools that make it easy to build compilers, optimizers, Just-In-Time[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mtools that make it easy to build compilers, optimizers, Just-In-Time[24m
+    [1mferramentas que facilitam a construção de compiladores, otimizadores, Just-In-Time[22m, [1mferramentas que facilitam a criação de compiladores, otimizadores, just-in-time[22m
+
+code generators, and many other compiler-related programs.
+
+[1mgeradores de código e muitos outros programas relacionados ao compilador.[22m
+
+Translations of [4mcode generators, and many other compiler-related programs.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mcode generators, and many other compiler-related programs.[24m
+    [1mgeradores de código e muitos outros programas relacionados ao compilador.[22m, [1mgeradores de código, e muitos outros programas relacionados a compiladores.[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+--
+
+[1m--[22m
+
+Translations of [4m--[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m--[24m
+    [1m--[22m, [1m—[22m
+
+Description-en: Low-Level Virtual Machine (LLVM)
+
+[1mDescription-pt: Máquina virtual de baixo nível (LLVM)[22m
+
+Translations of [4mDescription-en: Low-Level Virtual Machine (LLVM)[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: Low-Level Virtual Machine (LLVM)[24m
+    [1mDescription-pt: Máquina virtual de baixo nível (LLVM)[22m, [1mDescrição: Máquina Virtual de Baixo Nível (LLVM)[22m
+
+The Low-Level Virtual Machine (LLVM) is a collection of libraries and
+
+[1mA máquina virtual de baixo nível (LLVM) é uma coleção de bibliotecas e[22m
+
+Translations of [4mThe Low-Level Virtual Machine (LLVM) is a collection of libraries and[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mThe Low-Level Virtual Machine (LLVM) is a collection of libraries and[24m
+    [1mA máquina virtual de baixo nível (LLVM) é uma coleção de bibliotecas e[22m, [1mA Low-Level Virtual Machine (LLVM) é uma coleção de bibliotecas e[22m
+
+tools that make it easy to build compilers, optimizers, Just-In-Time
+
+[1mferramentas que facilitam a construção de compiladores, otimizadores, Just-In-Time[22m
+
+Translations of [4mtools that make it easy to build compilers, optimizers, Just-In-Time[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mtools that make it easy to build compilers, optimizers, Just-In-Time[24m
+    [1mferramentas que facilitam a construção de compiladores, otimizadores, Just-In-Time[22m, [1mferramentas que facilitam a criação de compiladores, otimizadores, just-in-time[22m
+
+code generators, and many other compiler-related programs.
+
+[1mgeradores de código e muitos outros programas relacionados ao compilador.[22m
+
+Translations of [4mcode generators, and many other compiler-related programs.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mcode generators, and many other compiler-related programs.[24m
+    [1mgeradores de código e muitos outros programas relacionados ao compilador.[22m, [1mgeradores de código, e muitos outros programas relacionados a compiladores.[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+make
+/māk/
+
+[1mfaço[22m
+
+Definitions of [4mmake[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+verb
+[1m    fazer[22m
+        do, make, cause, perform, create, render
+[1m    ganhar[22m
+        win, gain, earn, make, get, acquire
+[1m    criar[22m
+        create, make, generate, form, rear, breed
+[1m    efetuar[22m
+        make, perform, effect, accomplish, effectuate, realize
+[1m    produzir[22m
+        produce, yield, make, generate, have, manufacture
+[1m    estabelecer[22m
+        establish, set, lay down, set up, make, settle
+[1m    fabricar[22m
+        manufacture, make, fabricate, produce, create, brew
+[1m    obter[22m
+        get, obtain, gain, secure, acquire, make
+[1m    preparar[22m
+        prepare, ready, make, arrange, draw up, train
+[1m    conseguir[22m
+        get, obtain, succeed, gain, make, attain
+[1m    construir[22m
+        build, construct, make, set up, construe, engineer
+[1m    elaborar[22m
+        elaborate, prepare, make, formulate, make out, labor
+[1m    compor[22m
+        compose, make, make up, compound, set, concoct
+[1m    promover[22m
+        promote, further, advance, make, foment, progress
+[1m    constituir[22m
+        constitute, make, compose, institute, consist in
+[1m    arranjar[22m
+        arrange, get, find, fix, make, obtain
+[1m    dispor[22m
+        dispose, afford, bunch, lay out, make, order
+[1m    resultar[22m
+        result, follow, make, accrue, come out, come
+[1m    elevar[22m
+        raise, elevate, lift, rise, uplift, make
+[1m    adquirir[22m
+        acquire, purchase, get, buy, obtain, make
+[1m    determinar[22m
+        determine, ascertain, set, define, order, make
+[1m    desempenhar[22m
+        make, redeem, interpret
+[1m    aprontar[22m
+        ready, get ready, prepare, make ready, make
+[1m    promulgar[22m
+        promulgate, proclaim, make, constitute
+[1m    originar[22m
+        cause, originate, create, provoke, occasion, make
+[1m    edificar[22m
+        build, edify, construct, raise, make, put up
+[1m    manufaturar[22m
+        manufacture, produce, make, turn out, create
+[1m    suscitar[22m
+        evoke, make
+[1m    induzir[22m
+        induce, prompt, persuade, urge, spur, make
+[1m    percorrer[22m
+        travel, roam, wander, course, come, make
+[1m    motivar[22m
+        motivate, cause, motive, induce, provoke, make
+[1m    compelir[22m
+        compel, force, coerce, constrain, enforce, make
+[1m    surtir efeito[22m
+        make
+[1m    representar[22m
+        represent, act, depict, portray, perform, make
+
+noun
+[1m    (a) forma[22m
+        form, shape, mold, means, mode, make
+[1m    (a) feitura[22m
+        workmanship, make
+[1m    (o) arranjo[22m
+        arrangement, adjustment, disposition, order, make, collocation
+[1m    (a) aparência[22m
+        appearance, look, semblance, complexion, aspect, make
+[1m    (o) feitio[22m
+        cutout, shape, cut, character, form, make
+[1m    (o) corte[22m
+        court, cut, cutting, courtship, section, make
+[1m    (o) talho[22m
+        gash, cut, slash, butcher's, chop, make
+[1m    (o) aspecto[22m
+        aspect, appearance, look, feature, light, make
+[1m    (o) estilo[22m
+        style, fashion, way, manner, genre, make
+
+[4mmake[24m
+    [1mfaço[22m, [1mfaça[22m, [1mfazer[22m, [1mmarca[22m, [1mtornar[22m
+
+Description-en: utility for directing compilation
+
+[1mDescription-pt: utilitário para direcionar a compilação[22m
+
+Translations of [4mDescription-en: utility for directing compilation[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: utility for directing compilation[24m
+    [1mDescription-pt: utilitário para direcionar a compilação[22m, [1mDescription-pt: utilitário para dirigir a compilação[22m
+
+GNU Make is a utility which controls the generation of executables
+
+[1mGNU Make é um utilitário que controla a geração de executáveis[22m
+
+Translations of [4mGNU Make is a utility which controls the generation of executables[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mGNU Make is a utility which controls the generation of executables[24m
+    [1mGNU Make é um utilitário que controla a geração de executáveis[22m, [1mGNU Make é uma utilidade que controla a geração de executáveis[22m
+
+and other target files of a program from the program's source
+
+[1me outros arquivos de destino de um programa da fonte do programa[22m
+
+Translations of [4mand other target files of a program from the program's source[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mand other target files of a program from the program's source[24m
+    [1me outros arquivos de destino de um programa da fonte do programa[22m, [1me outros arquivos de destino de um programa a partir da origem do programa[22m
+
+files. It determines automatically which pieces of a large program
+
+[1marquivos. Ele determina automaticamente quais partes de um grande programa[22m
+
+Translations of [4mfiles. It determines automatically which pieces of a large program[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mfiles.[24m
+    [1marquivos.[22m, [1mficheiros.[22m
+[4mIt determines automatically which pieces of a large program[24m
+    [1mEle determina automaticamente quais partes de um grande programa[22m, [1mDetermina automaticamente quais partes de um programa grande[22m
+
+need to be (re)created, and issues the commands to (re)create
+
+[1mprecisam ser (re)criados, e emite os comandos para (re)criar[22m
+
+Translations of [4mneed to be (re)created, and issues the commands to (re)create[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mneed to be (re)created, and issues the commands to (re)create[24m
+    [1mprecisam ser (re)criados, e emite os comandos para (re)criar[22m, [1mprecisa ser (re)criado, e emite os comandos para (re)criar[22m
+
+tk-dev
+
+[1mtk-dev[22m
+
+Translations of [4mtk-dev[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mtk-dev[24m
+    [1mtk-dev[22m, [1mtk-desv[22m
+
+Description-en: Toolkit for Tcl and X11 (default version) - development files
+
+[1mDescription-pt: Toolkit para Tcl e X11 (versão padrão) - arquivos de desenvolvimento[22m
+
+Translations of [4mDescription-en: Toolkit for Tcl and X11 (default version) - development files[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: Toolkit for Tcl and X11 (default version) - development files[24m
+    [1mDescription-pt: Toolkit para Tcl e X11 (versão padrão) - arquivos de desenvolvimento[22m, [1mDescription-pt: Kit de ferramentas para Tcl e X11 (versão padrão) - arquivos de desenvolvimento[22m
+
+Tk is a cross-platform graphical toolkit which provides the Motif
+
+[1mTk é um kit de ferramentas gráficas multiplataforma que fornece o Motif[22m
+
+Translations of [4mTk is a cross-platform graphical toolkit which provides the Motif[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mTk is a cross-platform graphical toolkit which provides the Motif[24m
+    [1mTk é um kit de ferramentas gráficas multiplataforma que fornece o Motif[22m, [1mTk é um kit de ferramentas gráficas multiplataforma que oferece o Motif[22m
+
+look-and-feel and is implemented using the Tcl scripting language.
+
+[1mlook-and-feel e é implementado usando a linguagem de script Tcl.[22m
+
+Translations of [4mlook-and-feel and is implemented using the Tcl scripting language.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mlook-and-feel and is implemented using the Tcl scripting language.[24m
+    [1mlook-and-feel e é implementado usando a linguagem de script Tcl.[22m, [1maparência e é implementado usando a linguagem de script Tcl.[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+This package is a dependency package, which depends on Debian's default
+
+[1mEste pacote é um pacote de dependência, que depende do padrão do Debian[22m
+
+Translations of [4mThis package is a dependency package, which depends on Debian's default[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mThis package is a dependency package, which depends on Debian's default[24m
+    [1mEste pacote é um pacote de dependência, que depende do padrão do Debian[22m, [1mEste pacote é um pacote de dependências, que depende do padrão do Debian.[22m
+
+wget
+
+[1mwget[22m
+
+Translations of [4mwget[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mwget[24m
+    [1mwget[22m, [1mobter[22m
+
+Description-en: retrieves files from the web
+
+[1mDescription-pt: recupera arquivos da web[22m
+
+Translations of [4mDescription-en: retrieves files from the web[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: retrieves files from the web[24m
+    [1mDescription-pt: recupera arquivos da web[22m, [1mDescrição-pt: recupera arquivos da web[22m
+
+Wget is a network utility to retrieve files from the web
+
+[1mWget é um utilitário de rede para recuperar arquivos da web[22m
+
+Translations of [4mWget is a network utility to retrieve files from the web[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mWget is a network utility to retrieve files from the web[24m
+    [1mWget é um utilitário de rede para recuperar arquivos da web[22m, [1mO Wget é um utilitário de rede para recuperar arquivos da web[22m
+
+using HTTP(S) and FTP, the two most widely used internet
+
+[1musando HTTP(S) e FTP, os dois mais usados[22m
+
+Translations of [4musing HTTP(S) and FTP, the two most widely used internet[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4musing HTTP(S) and FTP, the two most widely used internet[24m
+    [1musando HTTP(S) e FTP, os dois mais usados[22m, [1musando HTTP(S) e FTP, os dois métodos de internet mais utilizados[22m
+
+protocols. It works non-interactively, so it will work in
+
+[1mprotocolos. Funciona de forma não interativa, por isso funcionará em[22m
+
+Translations of [4mprotocols. It works non-interactively, so it will work in[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mprotocols.[24m
+    [1mprotocolos.[22m, [1mProtocolos.[22m
+[4mIt works non-interactively, so it will work in[24m
+    [1mFunciona de forma não interativa, por isso funcionará em[22m, [1mEle funciona de forma não interativa, então funcionará em[22m
+
+the background, after having logged off. The program supports
+
+[1mo plano de fundo, depois de ter feito logoff. O programa suporta[22m
+
+Translations of [4mthe background, after having logged off. The program supports[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mthe background, after having logged off.[24m
+    [1mo plano de fundo, depois de ter feito logoff.[22m, [1mem segundo plano, depois de ter feito logoff.[22m
+[4mThe program supports[24m
+    [1mO programa suporta[22m, [1mO programa oferece suporte[22m
+
+--
+
+[1m--[22m
+
+Translations of [4m--[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m--[24m
+    [1m--[22m, [1m—[22m
+
+Description-en: retrieves files from the web
+
+[1mDescription-pt: recupera arquivos da web[22m
+
+Translations of [4mDescription-en: retrieves files from the web[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: retrieves files from the web[24m
+    [1mDescription-pt: recupera arquivos da web[22m, [1mDescrição-pt: recupera arquivos da web[22m
+
+Wget is a network utility to retrieve files from the web
+
+[1mWget é um utilitário de rede para recuperar arquivos da web[22m
+
+Translations of [4mWget is a network utility to retrieve files from the web[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mWget is a network utility to retrieve files from the web[24m
+    [1mWget é um utilitário de rede para recuperar arquivos da web[22m, [1mO Wget é um utilitário de rede para recuperar arquivos da web[22m
+
+using HTTP(S) and FTP, the two most widely used internet
+
+[1musando HTTP(S) e FTP, os dois mais usados[22m
+
+Translations of [4musing HTTP(S) and FTP, the two most widely used internet[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4musing HTTP(S) and FTP, the two most widely used internet[24m
+    [1musando HTTP(S) e FTP, os dois mais usados[22m, [1musando HTTP(S) e FTP, os dois métodos de internet mais utilizados[22m
+
+protocols. It works non-interactively, so it will work in
+
+[1mprotocolos. Funciona de forma não interativa, por isso funcionará em[22m
+
+Translations of [4mprotocols. It works non-interactively, so it will work in[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mprotocols.[24m
+    [1mprotocolos.[22m, [1mProtocolos.[22m
+[4mIt works non-interactively, so it will work in[24m
+    [1mFunciona de forma não interativa, por isso funcionará em[22m, [1mEle funciona de forma não interativa, então funcionará em[22m
+
+the background, after having logged off. The program supports
+
+[1mo plano de fundo, depois de ter feito logoff. O programa suporta[22m
+
+Translations of [4mthe background, after having logged off. The program supports[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mthe background, after having logged off.[24m
+    [1mo plano de fundo, depois de ter feito logoff.[22m, [1mem segundo plano, depois de ter feito logoff.[22m
+[4mThe program supports[24m
+    [1mO programa suporta[22m, [1mO programa oferece suporte[22m
+
+xdg-utils
+
+[1mxdg-utils[22m
+
+Translations of [4mxdg-utils[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mxdg-utils[24m
+    [1mxdg-utils[22m, [1mxdg-us[22m
+
+Description-en: desktop integration utilities from freedesktop.org
+
+[1mDescription-pt: utilitários de integração de desktop do freedesktop.org[22m
+
+Translations of [4mDescription-en: desktop integration utilities from freedesktop.org[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: desktop integration utilities from freedesktop.org[24m
+    [1mDescription-pt: utilitários de integração de desktop do freedesktop.org[22m, [1mDescription-pt: utilitários de integração da área de trabalho do freedesktop.org[22m
+
+xdg-utils contains utilities for integrating applications with the
+
+[1mxdg-utils contém utilitários para integração de aplicativos com o[22m
+
+Translations of [4mxdg-utils contains utilities for integrating applications with the[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mxdg-utils contains utilities for integrating applications with the[24m
+    [1mxdg-utils contém utilitários para integração de aplicativos com o[22m, [1mxdg-utils contém utilitários para integrar aplicações com o[22m
+
+desktop environment, regardless of which desktop environment is used.
+
+[1mambiente de desktop, independentemente de qual ambiente de desktop é usado.[22m
+
+Translations of [4mdesktop environment, regardless of which desktop environment is used.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mdesktop environment, regardless of which desktop environment is used.[24m
+    [1mambiente de desktop, independentemente de qual ambiente de desktop é usado.[22m, [1mambiente de área de trabalho, independentemente de qual ambiente de área de trabalho seja usado.[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+The following utilities are included:
+
+[1mOs seguintes utilitários estão incluídos:[22m
+
+Translations of [4mThe following utilities are included:[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mThe following utilities are included:[24m
+    [1mOs seguintes utilitários estão incluídos:[22m, [1mEstão incluídos os seguintes utilitários:[22m
+
+--
+
+[1m--[22m
+
+Translations of [4m--[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m--[24m
+    [1m--[22m, [1m—[22m
+
+Description-en: desktop integration utilities from freedesktop.org
+
+[1mDescription-pt: utilitários de integração de desktop do freedesktop.org[22m
+
+Translations of [4mDescription-en: desktop integration utilities from freedesktop.org[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: desktop integration utilities from freedesktop.org[24m
+    [1mDescription-pt: utilitários de integração de desktop do freedesktop.org[22m, [1mDescription-pt: utilitários de integração da área de trabalho do freedesktop.org[22m
+
+xdg-utils contains utilities for integrating applications with the
+
+[1mxdg-utils contém utilitários para integração de aplicativos com o[22m
+
+Translations of [4mxdg-utils contains utilities for integrating applications with the[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mxdg-utils contains utilities for integrating applications with the[24m
+    [1mxdg-utils contém utilitários para integração de aplicativos com o[22m, [1mxdg-utils contém utilitários para integrar aplicações com o[22m
+
+desktop environment, regardless of which desktop environment is used.
+
+[1mambiente de desktop, independentemente de qual ambiente de desktop é usado.[22m
+
+Translations of [4mdesktop environment, regardless of which desktop environment is used.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mdesktop environment, regardless of which desktop environment is used.[24m
+    [1mambiente de desktop, independentemente de qual ambiente de desktop é usado.[22m, [1mambiente de área de trabalho, independentemente de qual ambiente de área de trabalho seja usado.[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+The following utilities are included:
+
+[1mOs seguintes utilitários estão incluídos:[22m
+
+Translations of [4mThe following utilities are included:[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mThe following utilities are included:[24m
+    [1mOs seguintes utilitários estão incluídos:[22m, [1mEstão incluídos os seguintes utilitários:[22m
+
+xvfb
+
+[1mxvfb[22m
+
+Translations of [4mxvfb[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mxvfb[24m
+    [1mxvfb[22m, [1mxvfbName[22m
+
+Description-en: Virtual Framebuffer 'fake' X server
+
+[1mDescription-pt: Servidor X 'falso' do Virtual Framebuffer[22m
+
+Translations of [4mDescription-en: Virtual Framebuffer 'fake' X server[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: Virtual Framebuffer 'fake' X server[24m
+    [1mDescription-pt: Servidor X 'falso' do Virtual Framebuffer[22m, [1mDescription-pt: Virtual Framebuffer 'falso' servidor X[22m
+
+Xvfb provides an X server that can run on machines with no display hardware
+
+[1mXvfb fornece um servidor X que pode ser executado em máquinas sem hardware de exibição[22m
+
+Translations of [4mXvfb provides an X server that can run on machines with no display hardware[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mXvfb provides an X server that can run on machines with no display hardware[24m
+    [1mXvfb fornece um servidor X que pode ser executado em máquinas sem hardware de exibição[22m, [1mXvfb fornece um servidor X que pode rodar em máquinas sem hardware de exibição[22m
+
+and no physical input devices. It emulates a dumb framebuffer using virtual
+
+[1me nenhum dispositivo de entrada física. Ele emula um framebuffer burro usando virtual[22m
+
+Translations of [4mand no physical input devices. It emulates a dumb framebuffer using virtual[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mand no physical input devices.[24m
+    [1me nenhum dispositivo de entrada física.[22m, [1me sem dispositivos de entrada físicos.[22m
+[4mIt emulates a dumb framebuffer using virtual[24m
+    [1mEle emula um framebuffer burro usando virtual[22m, [1mEle emula um framebuffer burro usando[22m
+
+memory. The primary use of this server was intended to be server testing,
+
+[1mmemória. O uso principal deste servidor foi destinado a testes de servidor,[22m
+
+Translations of [4mmemory. The primary use of this server was intended to be server testing,[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mmemory.[24m
+    [1mmemória.[22m, [1mlembrança.[22m
+[4mThe primary use of this server was intended to be server testing,[24m
+    [1mO uso principal deste servidor foi destinado a testes de servidor,[22m, [1mO principal uso deste servidor foi feito para teste de servidor,[22m
+
+but other novel uses for it have been found, including testing clients
+
+[1mmas outros novos usos para ele foram encontrados, incluindo clientes de teste[22m
+
+Translations of [4mbut other novel uses for it have been found, including testing clients[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mbut other novel uses for it have been found, including testing clients[24m
+    [1mmas outros novos usos para ele foram encontrados, incluindo clientes de teste[22m, [1mmas outros usos novos para ele foram encontrados, incluindo testes de clientes[22m
+
+--
+
+[1m--[22m
+
+Translations of [4m--[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m--[24m
+    [1m--[22m, [1m—[22m
+
+Description-en: Virtual Framebuffer 'fake' X server
+
+[1mDescription-pt: Servidor X 'falso' do Virtual Framebuffer[22m
+
+Translations of [4mDescription-en: Virtual Framebuffer 'fake' X server[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: Virtual Framebuffer 'fake' X server[24m
+    [1mDescription-pt: Servidor X 'falso' do Virtual Framebuffer[22m, [1mDescription-pt: Virtual Framebuffer 'falso' servidor X[22m
+
+Xvfb provides an X server that can run on machines with no display hardware
+
+[1mXvfb fornece um servidor X que pode ser executado em máquinas sem hardware de exibição[22m
+
+Translations of [4mXvfb provides an X server that can run on machines with no display hardware[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mXvfb provides an X server that can run on machines with no display hardware[24m
+    [1mXvfb fornece um servidor X que pode ser executado em máquinas sem hardware de exibição[22m, [1mXvfb fornece um servidor X que pode rodar em máquinas sem hardware de exibição[22m
+
+and no physical input devices. It emulates a dumb framebuffer using virtual
+
+[1me nenhum dispositivo de entrada física. Ele emula um framebuffer burro usando virtual[22m
+
+Translations of [4mand no physical input devices. It emulates a dumb framebuffer using virtual[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mand no physical input devices.[24m
+    [1me nenhum dispositivo de entrada física.[22m, [1me sem dispositivos de entrada físicos.[22m
+[4mIt emulates a dumb framebuffer using virtual[24m
+    [1mEle emula um framebuffer burro usando virtual[22m, [1mEle emula um framebuffer burro usando[22m
+
+memory. The primary use of this server was intended to be server testing,
+
+[1mmemória. O uso principal deste servidor foi destinado a testes de servidor,[22m
+
+Translations of [4mmemory. The primary use of this server was intended to be server testing,[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mmemory.[24m
+    [1mmemória.[22m, [1mlembrança.[22m
+[4mThe primary use of this server was intended to be server testing,[24m
+    [1mO uso principal deste servidor foi destinado a testes de servidor,[22m, [1mO principal uso deste servidor foi feito para teste de servidor,[22m
+
+but other novel uses for it have been found, including testing clients
+
+[1mmas outros novos usos para ele foram encontrados, incluindo clientes de teste[22m
+
+Translations of [4mbut other novel uses for it have been found, including testing clients[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mbut other novel uses for it have been found, including testing clients[24m
+    [1mmas outros novos usos para ele foram encontrados, incluindo clientes de teste[22m, [1mmas outros usos novos para ele foram encontrados, incluindo testes de clientes[22m
+
+xz-utils
+
+[1mxz-utils[22m
+
+Translations of [4mxz-utils[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mxz-utils[24m
+    [1mxz-utils[22m, [1mXZ-utils[22m
+
+Description-en: XZ-format compression utilities
+
+[1mDescription-pt: Utilitários de compressão de formato XZ[22m
+
+Translations of [4mDescription-en: XZ-format compression utilities[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: XZ-format compression utilities[24m
+    [1mDescription-pt: Utilitários de compressão de formato XZ[22m, [1mDescription-en: Utilitários de compactação no formato XZ[22m
+
+XZ is the successor to the Lempel-Ziv/Markov-chain Algorithm
+
+[1mXZ é o sucessor do algoritmo Lempel-Ziv/Markov-chain[22m
+
+Translations of [4mXZ is the successor to the Lempel-Ziv/Markov-chain Algorithm[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mXZ is the successor to the Lempel-Ziv/Markov-chain Algorithm[24m
+    [1mXZ é o sucessor do algoritmo Lempel-Ziv/Markov-chain[22m, [1mXZ é o sucessor do Algoritmo da cadeia de Lempel-Ziv/Markov[22m
+
+compression format, which provides memory-hungry but powerful
+
+[1mformato de compressão, que fornece memória com fome, mas poderoso[22m
+
+Translations of [4mcompression format, which provides memory-hungry but powerful[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mcompression format, which provides memory-hungry but powerful[24m
+    [1mformato de compressão, que fornece memória com fome, mas poderoso[22m, [1mformato de compactação, que fornece memória com fome, mas poderosa[22m
+
+compression (often better than bzip2) and fast, easy decompression.
+
+[1mcompactação (geralmente melhor que bzip2) e descompactação rápida e fácil.[22m
+
+Translations of [4mcompression (often better than bzip2) and fast, easy decompression.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mcompression (often better than bzip2) and fast, easy decompression.[24m
+    [1mcompactação (geralmente melhor que bzip2) e descompactação rápida e fácil.[22m, [1mcompressão (muitas vezes melhor que bzip2) e descompressão rápida e fácil.[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+--
+
+[1m--[22m
+
+Translations of [4m--[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m--[24m
+    [1m--[22m, [1m—[22m
+
+Description-en: XZ-format compression utilities
+
+[1mDescription-pt: Utilitários de compressão de formato XZ[22m
+
+Translations of [4mDescription-en: XZ-format compression utilities[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: XZ-format compression utilities[24m
+    [1mDescription-pt: Utilitários de compressão de formato XZ[22m, [1mDescription-en: Utilitários de compactação no formato XZ[22m
+
+XZ is the successor to the Lempel-Ziv/Markov-chain Algorithm
+
+[1mXZ é o sucessor do algoritmo Lempel-Ziv/Markov-chain[22m
+
+Translations of [4mXZ is the successor to the Lempel-Ziv/Markov-chain Algorithm[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mXZ is the successor to the Lempel-Ziv/Markov-chain Algorithm[24m
+    [1mXZ é o sucessor do algoritmo Lempel-Ziv/Markov-chain[22m, [1mXZ é o sucessor do Algoritmo da cadeia de Lempel-Ziv/Markov[22m
+
+compression format, which provides memory-hungry but powerful
+
+[1mformato de compressão, que fornece memória com fome, mas poderoso[22m
+
+Translations of [4mcompression format, which provides memory-hungry but powerful[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mcompression format, which provides memory-hungry but powerful[24m
+    [1mformato de compressão, que fornece memória com fome, mas poderoso[22m, [1mformato de compactação, que fornece memória com fome, mas poderosa[22m
+
+compression (often better than bzip2) and fast, easy decompression.
+
+[1mcompactação (geralmente melhor que bzip2) e descompactação rápida e fácil.[22m
+
+Translations of [4mcompression (often better than bzip2) and fast, easy decompression.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mcompression (often better than bzip2) and fast, easy decompression.[24m
+    [1mcompactação (geralmente melhor que bzip2) e descompactação rápida e fácil.[22m, [1mcompressão (muitas vezes melhor que bzip2) e descompressão rápida e fácil.[22m
+
+.
+
+[1m.[22m
+
+Translations of [4m.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m.[24m
+    [1m.[22m, [1m...[22m
+
+zip
+/zip/
+
+[1mfecho eclair[22m
+
+Definitions of [4mzip[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+noun
+[1m    (a) energia[22m
+        energy, power, strength, force, stamina, zip
+[1m    (o) silvo[22m
+        hiss, whistle, ping, zip, hoot, piping
+[1m    (o) zunido[22m
+        hum, ringing, tingle, whistle, cipher, zip
+[1m    (o) sibilar de bala[22m
+        zip
+
+[4mzip[24m
+    [1mfecho eclair[22m, [1mzip[22m, [1mfecho[22m
+
+Description-en: Archiver for .zip files
+
+[1mDescription-pt: Archiver para arquivos .zip[22m
+
+Translations of [4mDescription-en: Archiver for .zip files[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: Archiver for .zip files[24m
+    [1mDescription-pt: Archiver para arquivos .zip[22m, [1mDescription-en: Arquivador para arquivos .zip[22m
+
+This is InfoZIP's zip program. It produces files that are fully
+
+[1mEste é o programa zip do InfoZIP. Produz arquivos totalmente[22m
+
+Translations of [4mThis is InfoZIP's zip program. It produces files that are fully[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mThis is InfoZIP's zip program.[24m
+    [1mEste é o programa zip do InfoZIP.[22m, [1mEste é o programa de zip do InfoZIP.[22m
+[4mIt produces files that are fully[24m
+    [1mProduz arquivos totalmente[22m, [1mEle produz arquivos que são totalmente[22m
+
+compatible with the popular PKZIP program; however, the command line
+
+[1mcompatível com o popular programa PKZIP; no entanto, a linha de comando[22m
+
+Translations of [4mcompatible with the popular PKZIP program; however, the command line[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mcompatible with the popular PKZIP program;[24m
+    [1mcompatível com o popular programa PKZIP;[22m, [1mcompatível com o programa PKZIP popular;[22m
+[4mhowever, the command line[24m
+    [1mno entanto, a linha de comando[22m, [1mporém, a linha de comando[22m
+
+options are not identical. In other words, the end result is the same,
+
+[1mas opções não são idênticas. Em outras palavras, o resultado final é o mesmo,[22m
+
+Translations of [4moptions are not identical. In other words, the end result is the same,[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4moptions are not identical.[24m
+    [1mas opções não são idênticas.[22m, [1mopções não são idênticas.[22m
+[4mIn other words, the end result is the same,[24m
+    [1mEm outras palavras, o resultado final é o mesmo,[22m, [1mOu seja, o resultado final é o mesmo.[22m
+
+but the methods differ. :-)
+
+[1mmas os métodos diferem. :-)[22m
+
+Translations of [4mbut the methods differ. :-)[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mbut the methods differ.[24m
+    [1mmas os métodos diferem.[22m, [1mmas os métodos são diferentes.[22m
+[4m:-)[24m
+    [1m:-)[22m, [1m: -)[22m
+
+zlib1g-dev
+
+[1mzlib1g-dev[22m
+
+Translations of [4mzlib1g-dev[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mzlib1g-dev[24m
+    [1mzlib1g-dev[22m, [1mZlib1g-dev[22m
+
+Description-en: compression library - development
+
+[1mDescription-pt: biblioteca de compressão - desenvolvimento[22m
+
+Translations of [4mDescription-en: compression library - development[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: compression library - development[24m
+    [1mDescription-pt: biblioteca de compressão - desenvolvimento[22m, [1mDescription-pt: biblioteca de compactação - desenvolvimento[22m
+
+zlib is a library implementing the deflate compression method found
+
+[1mzlib é uma biblioteca que implementa o método de compressão deflate encontrado[22m
+
+Translations of [4mzlib is a library implementing the deflate compression method found[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mzlib is a library implementing the deflate compression method found[24m
+    [1mzlib é uma biblioteca que implementa o método de compressão deflate encontrado[22m, [1mzlib é uma biblioteca que implementa o método de compactação deflate encontrada[22m
+
+in gzip and PKZIP. This package includes the development support
+
+[1mem gzip e PKZIP. Este pacote inclui o suporte ao desenvolvimento[22m
+
+Translations of [4min gzip and PKZIP. This package includes the development support[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4min gzip and PKZIP.[24m
+    [1mem gzip e PKZIP.[22m, [1mno gzip e no PKZIP.[22m
+[4mThis package includes the development support[24m
+    [1mEste pacote inclui o suporte ao desenvolvimento[22m, [1mEste pacote inclui o suporte para desenvolvimento[22m
+
+files.
+
+[1marquivos.[22m
+
+Translations of [4mfiles.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mfiles.[24m
+    [1marquivos.[22m, [1mficheiros.[22m
+
+Description-md5: d7f4e8a626131fc83c643c5d59096290
+
+[1mDescrição-md5: d7f4e8a626131fc83c643c5d59096290[22m
+
+Translations of [4mDescription-md5: d7f4e8a626131fc83c643c5d59096290[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-md5: d7f4e8a626131fc83c643c5d59096290[24m
+    [1mDescrição-md5: d7f4e8a626131fc83c643c5d59096290[22m, [1mDescription-md5: d7f4e8a626131fc83c643c5d59096290[22m
+
+--
+
+[1m--[22m
+
+Translations of [4m--[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4m--[24m
+    [1m--[22m, [1m—[22m
+
+Description-en: compression library - development
+
+[1mDescription-pt: biblioteca de compressão - desenvolvimento[22m
+
+Translations of [4mDescription-en: compression library - development[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-en: compression library - development[24m
+    [1mDescription-pt: biblioteca de compressão - desenvolvimento[22m, [1mDescription-pt: biblioteca de compactação - desenvolvimento[22m
+
+zlib is a library implementing the deflate compression method found
+
+[1mzlib é uma biblioteca que implementa o método de compressão deflate encontrado[22m
+
+Translations of [4mzlib is a library implementing the deflate compression method found[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mzlib is a library implementing the deflate compression method found[24m
+    [1mzlib é uma biblioteca que implementa o método de compressão deflate encontrado[22m, [1mzlib é uma biblioteca que implementa o método de compactação deflate encontrada[22m
+
+in gzip and PKZIP. This package includes the development support
+
+[1mem gzip e PKZIP. Este pacote inclui o suporte ao desenvolvimento[22m
+
+Translations of [4min gzip and PKZIP. This package includes the development support[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4min gzip and PKZIP.[24m
+    [1mem gzip e PKZIP.[22m, [1mno gzip e no PKZIP.[22m
+[4mThis package includes the development support[24m
+    [1mEste pacote inclui o suporte ao desenvolvimento[22m, [1mEste pacote inclui o suporte para desenvolvimento[22m
+
+files.
+
+[1marquivos.[22m
+
+Translations of [4mfiles.[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mfiles.[24m
+    [1marquivos.[22m, [1mficheiros.[22m
+
+Description-md5: d7f4e8a626131fc83c643c5d59096290
+
+[1mDescrição-md5: d7f4e8a626131fc83c643c5d59096290[22m
+
+Translations of [4mDescription-md5: d7f4e8a626131fc83c643c5d59096290[24m
+[ [4mEnglish[24m -> [1mPortuguês Brasileiro[22m ]
+
+[4mDescription-md5: d7f4e8a626131fc83c643c5d59096290[24m
+    [1mDescrição-md5: d7f4e8a626131fc83c643c5d59096290[22m, [1mDescription-md5: d7f4e8a626131fc83c643c5d59096290[22m
